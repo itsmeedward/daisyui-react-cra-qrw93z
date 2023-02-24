@@ -1,45 +1,71 @@
 export default function Seventh() {
   return (
-    <div className="bg-white pb-6 sm:pb-8 lg:pb-12">
-      <div className="max-w-screen-2xl px-4 md:px-8 mx-auto">
-        <section className="min-h-96 flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
-          {/* image - start */}
+    <div className="py-16">
+  <div className="container m-auto space-y-8 px-6 text-gray-500 md:px-12 lg:px-20">
+    <div className="justify-center gap-6 text-center md:flex md:text-left lg:items-center lg:gap-16">
+      <div className="order-last mb-6 space-y-6 md:mb-0 md:w-6/12 lg:w-6/12">
+        <h1 className="text-4xl font-bold md:text-5xl">
+          Buy now and benefit up to{" "}
+          <span className="">30% off</span>
+        </h1>
+        <p className="text-lg ">
+          Be part of millions people around the world using tailus in modern
+          User Interfaces.
+        </p>
+        <div className="flex flex-wrap gap-6">
+          <a
+            href="#"
+            className="relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
+          >
+            <span className="relative text-base font-semibold">
+              Shop now
+            </span>
+          </a>
+          <a
+            href="#"
+            className="relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:border before:border-gray-200 before:bg-gray-50 before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-gray-800 sm:w-max"
+          >
+            <span className="relative text-base font-semibold text-primary">
+              More about
+            </span>
+          </a>
+        </div>
+      </div>
+      <div className="grid grid-cols-5 grid-rows-4 gap-4 md:w-5/12 lg:w-6/12">
+        <div className="col-span-2 row-span-4">
           <img
-            src="https://images.unsplash.com/photo-1618004652321-13a63e576b80?auto=format&q=75&fit=crop&w=1500"
+            src="images/products/kushagra.webp"
+            className="rounded-full"
+            width={640}
+            height={960}
+            alt="shoes"
             loading="lazy"
-            alt="Photo by Fakurian Design"
-            className="w-full h-full object-cover object-center absolute inset-0"
           />
-          {/* image - end */}
-          {/* overlay - start */}
-          <div className="bg-indigo-500 mix-blend-multiply absolute inset-0" />
-          {/* overlay - end */}
-          {/* text start */}
-          <div className="sm:max-w-xl flex flex-col items-center relative p-4">
-            <p className="text-indigo-200 text-lg sm:text-xl text-center mb-4 md:mb-8">
-              Very proud to introduce
-            </p>
-            <h1 className="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">
-              Revolutionary way to build the web
-            </h1>
-            <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
-              <a
-                href="#"
-                className="inline-block bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
-              >
-                Start now
-              </a>
-              <a
-                href="#"
-                className="inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
-              >
-                Take tour
-              </a>
-            </div>
-          </div>
-          {/* text end */}
-        </section>
+        </div>
+        <div className="col-span-2 row-span-2">
+          <img
+            src="images/products/iman.webp"
+            className="h-full w-full rounded-xl object-cover object-top"
+            width={640}
+            height={640}
+            alt="shoe"
+            loading="lazy"
+          />
+        </div>
+        <div className="col-span-3 row-span-3">
+          <img
+            src="images/products/daniel.webp"
+            className="h-full w-full rounded-xl object-cover object-top"
+            width={640}
+            height={427}
+            alt="shoes"
+            loading="lazy"
+          />
+        </div>
       </div>
     </div>
+  </div>
+</div>
+
   );
 }
