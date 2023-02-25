@@ -6,7 +6,7 @@ function First() {
     <section className="bg-white dark:bg-gray-900">
       <div className="container px-6 py-16 mx-auto text-center">
         <div className="max-w-lg mx-auto">
-          <h1 className="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">
+          <h1  className="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">
             Welcome to Greathill
           </h1>
           <p className="mt-6 text-gray-500 dark:text-gray-300">
