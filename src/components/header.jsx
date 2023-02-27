@@ -1,11 +1,10 @@
 import React from 'react';
-import {  Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import Logo from '../greathill.png';
 
 export default function Header() {
   return (
-
     <div className="navbar  bg-base-100 z-40">
       <div className="navbar-start z-40">
         <div className="dropdown z-40">
@@ -74,20 +73,20 @@ export default function Header() {
          <Link to="/">Home</Link >
         */}
 
-        <a className="btn btn-ghost normal-case text-xl"> <Link to="/">Greathill ltd.</Link ></a>
+        <a className="btn btn-ghost normal-case text-xl">
+          {' '}
+          <Link to="/">Greathill ltd.</Link>
+        </a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           <li>
-          <Link to="/">Home</Link >
-         </li>
-          <li>
-          <Link to="/contact">Contact</Link >
-
+            <Link to="/">Home</Link>
           </li>
+
           <li tabIndex={0}>
             <a>
-            About
+              About
               <svg
                 className="fill-current"
                 xmlns="http://www.w3.org/2000/svg"
@@ -99,28 +98,39 @@ export default function Header() {
               </svg>
             </a>
             <ul className="p-2">
-              <li  className="bg-gray-100 text-gray-600">
-              <Link to="/about">About Us</Link >
+              <li className="bg-gray-100 text-gray-600">
+                <Link to="/about">About Us</Link>
               </li>
               <li className="bg-gray-100 text-gray-600">
                 <a>Submenu 2</a>
               </li>
             </ul>
           </li>
-          <li>
-            <a>Contact</a>
+          <li tabIndex={0}>
+            <a>
+              Services
+              <svg
+                className="fill-current"
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+              >
+                <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
+              </svg>
+            </a>
+            <ul className="p-2">
+              <li className="bg-gray-100 text-gray-600">
+                <Link to="/about">About Us</Link>
+              </li>
+              <li className="bg-gray-100 text-gray-600">
+                <a>Submenu 2</a>
+              </li>
+            </ul>
           </li>
+
           <li>
-            <a>Contact</a>
-          </li>
-          <li>
-            <a>Contact</a>
-          </li>
-          <li>
-            <a>Contact</a>
-          </li>
-          <li>
-            <a>Contact</a>
+            <Link to="/contact">Contact</Link>
           </li>
         </ul>
       </div>
