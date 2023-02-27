@@ -7,22 +7,19 @@ export default function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
-        'service_sv50w8p',
-        'template_bj2br9l',
-        form.current,
-        '1ppi2HhB14Zy_wbnV'
-      )
-      .then(
-        (result) => {
-          console.log(result.text);
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
+    emailjs.sendForm('service', 'temp', form.current, 'prive').then(
+      (result) => {
+        console.log(result.text);
+        setMessageStatus('sent');
+      },
+      (error) => {
+        console.log(error.text);
+        setMessageStatus('error');
+      }
+    );
   };
+
+  const [messageStatus, setMessageStatus] = useState(null);
 
   return (
     <>
@@ -121,7 +118,7 @@ export default function Contact() {
         </div>
       </section>
 
-      <section className="min-h-screen bg-cover ">
+      <section className="min-h-screen bg-cover bg-blue-500">
         <div className="flex flex-col min-h-screen bg-black/60">
           <div className="container flex flex-col flex-1 px-6 py-12 mx-auto">
             <div className="flex-1 lg:flex lg:items-center lg:-mx-6">
@@ -260,6 +257,20 @@ export default function Contact() {
                     >
                       get in touch
                     </button>
+                    {messageStatus == 'sent' && (
+                      <p className="text-blue-500 ">
+                        {' '}
+                        Your form request has been sent. We will be contact with
+                        you as soon as possible.{' '}
+                      </p>
+                    )}
+                    {messageStatus == 'error' && (
+                      <p className="text-red-500 ">
+                        {' '}
+                        Your form request has been failed. Please try again
+                        later.{' '}
+                      </p>
+                    )}
                   </form>
                 </div>
               </div>
