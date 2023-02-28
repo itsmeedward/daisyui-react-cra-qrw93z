@@ -7,17 +7,14 @@ export default function Second() {
           <span className="text-blue-500">next level.</span>
         </h2>
         <p className="max-w-4xl mt-6 text-center text-gray-500 dark:text-gray-300">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum quidem
-          officiis reprehenderit, aperiam veritatis non, quod veniam fuga
-          possimus hic explicabo laboriosam nam. A tempore totam ipsa nemo
-          adipisci iusto!
+        Explore our range of services and discover how we can help you unlock your business's full potential. From strategy and marketing to operations and beyond, our team of experts has the skills and experience to help you succeed. Let's work together to elevate your business and achieve success like never before.
         </p>
         <div className="inline-flex w-full mt-6 sm:w-auto">
           <a
             href="#"
             className="btn inline-flex items-center justify-center w-full px-6 py-2 text-white duration-300 bg-blue-600 rounded-lg hover:bg-blue-500 focus:ring focus:ring-blue-300 focus:ring-opacity-80"
           >
-              Sign Up
+              See our services
           </a>
         </div>
       </div>
