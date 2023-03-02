@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function Second() {
   return (
     <section className="bg-white dark:bg-gray-900 border-t border-gray-400">
@@ -11,10 +13,10 @@ export default function Second() {
         </p>
         <div className="inline-flex w-full mt-6 sm:w-auto">
           <a
-            href="#"
+           
             className="btn inline-flex items-center justify-center w-full px-6 py-2 text-white duration-300 bg-blue-600 rounded-lg hover:bg-blue-500 focus:ring focus:ring-blue-300 focus:ring-opacity-80"
           >
-              See our services
+               <Link to="/services"> See our services</Link>
           </a>
         </div>
       </div>

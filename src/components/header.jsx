@@ -5,6 +5,9 @@ import Logo from '../greathill.png';
 
 export default function Header() {
   return (
+
+    <header className="sticky top-0 inset-x-0 flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-white border-b border-gray-200 text-sm py-3 sm:py-0 dark:bg-gray-800 dark:border-gray-700">
+
     <div className="navbar  bg-base-100 z-40">
       <div className="navbar-start z-40">
         <div className="dropdown z-40">
@@ -135,5 +138,7 @@ export default function Header() {
         </ul>
       </div>
     </div>
+    </header>
+
   );
 }
