@@ -23,8 +23,7 @@ export default function Third(){
           Default Taiwindcss Config
         </h1>
         <p className="mt-2  ">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim
-          fusce tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.
+        Code quality is the cornerstone of every successful software project.Our team of experts follows industry-leading best practices and takes a rigorous approach to quality assurance, ensuring that our code meets the highest standards of reliability, security, and performance. 
         </p>
       </div>
       <div>
