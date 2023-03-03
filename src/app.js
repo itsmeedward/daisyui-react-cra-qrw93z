@@ -10,6 +10,7 @@ import Privacy from './pages/privacy';
 import About from './pages/about/about/main';
 import P404 from './pages/404';
 import Test from './pages/main/test';
+import Webservice from './pages/services/web/main';
 
 const App = (props) => {
   return (
@@ -24,6 +25,7 @@ const App = (props) => {
           <Route path="/about" element={<About />} />
           <Route path="/Privacy" element={<Privacy />} />
           <Route path="/test" element={<Test />} />
+          <Route path="/Webservice" element={<Webservice />} />
           <Route path="/*" element={<P404 />} />
         </Routes>
         <Footer />

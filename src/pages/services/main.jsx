@@ -1,3 +1,8 @@
+import { Link } from "react-router-dom";
+
+
+
+
 export default function Services() {
   return (
 <>
@@ -15,7 +20,7 @@ export default function Services() {
         </p>
         <h1 className="block text-2xl font-bold text-gray-400 sm:text-3xl ">
         Unlock Your Business's Full Potential with Our Comprehensive Suite of Services!        </h1>
-        <p className="mt-2 text-lg text-gray-800 dark:text-gray-400">
+        <p className="mt-2 text-lg  dark:text-gray-400">
         From software development to IT consulting, we offer a comprehensive range of services to help businesses succeed. Discover how we can help you today
         </p>
         <div className="mt-5 flex flex-col items-center gap-2 sm:flex-row sm:gap-3">
@@ -59,7 +64,7 @@ export default function Services() {
     {/* Grid */}
     <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {/* Card */}
-      <a className="group rounded-xl overflow-hidden" href="#">
+      <a className="group rounded-xl overflow-hidden">
         <div className="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
           <img
             className="w-full h-full absolute top-0 left-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl"
@@ -70,14 +75,14 @@ export default function Services() {
           </span>
         </div>
         <div className="mt-7">
-          <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 Discover">
-           Web Solutions
+          <h3 className="text-xl font-semibold  group-hover:text-gray-600 Discover">
+           Web
           </h3>
-          <p className="mt-3 text-gray-800 Discover">
+          <p className="mt-3  Discover">
           We specialize in delivering powerful, user-friendly web solutions that help businesses succeed. Discover how we can help you achieve your goals today!
           </p>
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-            Discover
+          <Link to="/Webservice">Discover</Link>
             <svg
               className="w-2.5 h-2.5"
               width={16}
@@ -106,10 +111,10 @@ export default function Services() {
           />
         </div>
         <div className="mt-7">
-          <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 Discover">
+          <h3 className="text-xl font-semibold  group-hover:text-gray-600 Discover">
             Internet Of Things(IoT)
           </h3>
-          <p className="mt-3 text-gray-800 Discover">
+          <p className="mt-3  Discover">
           IoT (Internet of Things) is revolutionizing the way we live, work, and interact with technology. At Greathill, we specialize in developing innovative IoT solutions that help businesses streamline operations, increase efficiency, and drive growth. 
           </p>
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
@@ -184,10 +189,10 @@ export default function Services() {
         </span>
       </div>
       <div className="mt-7">
-        <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 Discover">
+        <h3 className="text-xl font-semibold  group-hover:text-gray-600 Discover">
          Mobile App Development
         </h3>
-        <p className="mt-3 text-gray-800 Discover">
+        <p className="mt-3  Discover">
         We're experts in creating mobile apps that engage and delight users. Our team of experienced developers can bring your vision to life with custom solutions that are tailored to your specific needs. From simple apps to complex, multi-platform solutions, we have the experience and expertise to deliver the mobile experience your users crave. 
         </p>
         <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
@@ -220,10 +225,10 @@ export default function Services() {
         />
       </div>
       <div className="mt-7">
-        <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 ">
+        <h3 className="text-xl font-semibold  group-hover:text-gray-600 ">
         Artificial Intelligence (AI)
         </h3>
-        <p className="mt-3 text-gray-800 ">
+        <p className="mt-3  ">
         Our team of skilled data scientists and engineers are dedicated to creating intelligent solutions that solve real-world problems and drive business success. Whether it's machine learning, natural language processing, or computer vision, we have the expertise to develop custom AI solutions that meet your unique needs.
         </p>
         <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
