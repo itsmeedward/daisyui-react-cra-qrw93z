@@ -65,19 +65,19 @@ export default function Services() {
             className="w-full h-full absolute top-0 left-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl"
             src="https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
           />
-          <span className="absolute top-0 right-0 rounded-tr-xl rounded-bl-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3 dark:bg-gray-900">
+          <span className="absolute top-0 right-0 rounded-tr-xl rounded-bl-xl text-xs font-medium bg-red-500 text-white py-1.5 px-3 ">
             Hot
           </span>
         </div>
         <div className="mt-7">
-          <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 dark:text-gray-200">
-            Studio by Preline
+          <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 Discover">
+           Web Solutions
           </h3>
-          <p className="mt-3 text-gray-800 dark:text-gray-200">
+          <p className="mt-3 text-gray-800 Discover">
           We specialize in delivering powerful, user-friendly web solutions that help businesses succeed. Discover how we can help you achieve your goals today!
           </p>
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-            Read more
+            Discover
             <svg
               className="w-2.5 h-2.5"
               width={16}
@@ -101,20 +101,19 @@ export default function Services() {
         <div className="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
           <img
             className="w-full h-full absolute top-0 left-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl"
-            src="https://images.unsplash.com/photo-1542125387-c71274d94f0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+            src="https://cdn.discordapp.com/attachments/1008571037862080542/1081034319881052191/anlxgh_iot_internet_of_things_6bc7d6e2-c469-4ad9-accd-56f0ed75a9fc.png"
             alt="Image Description"
           />
         </div>
         <div className="mt-7">
-          <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 dark:text-gray-200">
-            Onsite
+          <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 Discover">
+            Internet Of Things(IoT)
           </h3>
-          <p className="mt-3 text-gray-800 dark:text-gray-200">
-            Optimize your in-person experience with best-in-class capabilities
-            like badge printing and lead retrieval
+          <p className="mt-3 text-gray-800 Discover">
+          IoT (Internet of Things) is revolutionizing the way we live, work, and interact with technology. At Greathill, we specialize in developing innovative IoT solutions that help businesses streamline operations, increase efficiency, and drive growth. 
           </p>
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-            Read more
+            Discover
             <svg
               className="w-2.5 h-2.5"
               width={16}
@@ -177,23 +176,22 @@ export default function Services() {
       <div className="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
         <img
           className="w-full h-full absolute top-0 left-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl"
-          src="https://images.unsplash.com/photo-1586232702178-f044c5f4d4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80"
+          src="https://cdn.discordapp.com/attachments/989268300473192561/1081042488296489040/newbieonebi_mobile_app_development_mobile_app_development_andor_aad27c82-4dbb-48ba-82cc-b811b6b51257.png"
           alt="Image Description"
         />
         <span className="absolute top-0 right-0 rounded-tr-xl rounded-bl-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3 dark:bg-gray-900">
-          Sponsored
+         
         </span>
       </div>
       <div className="mt-7">
-        <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 dark:text-gray-200">
-          Studio by Preline
+        <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 Discover">
+         Mobile App Development
         </h3>
-        <p className="mt-3 text-gray-800 dark:text-gray-200">
-          Produce professional, reliable streams easily leveraging Preline's
-          innovative broadcast studio
+        <p className="mt-3 text-gray-800 Discover">
+        We're experts in creating mobile apps that engage and delight users. Our team of experienced developers can bring your vision to life with custom solutions that are tailored to your specific needs. From simple apps to complex, multi-platform solutions, we have the experience and expertise to deliver the mobile experience your users crave. 
         </p>
         <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-          Read more
+          Discover
           <svg
             className="w-2.5 h-2.5"
             width={16}
@@ -222,15 +220,14 @@ export default function Services() {
         />
       </div>
       <div className="mt-7">
-        <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 dark:text-gray-200">
-          Onsite
+        <h3 className="text-xl font-semibold text-gray-800 group-hover:text-gray-600 ">
+        Artificial Intelligence (AI)
         </h3>
-        <p className="mt-3 text-gray-800 dark:text-gray-200">
-          Optimize your in-person experience with best-in-class capabilities
-          like badge printing and lead retrieval
+        <p className="mt-3 text-gray-800 ">
+        Our team of skilled data scientists and engineers are dedicated to creating intelligent solutions that solve real-world problems and drive business success. Whether it's machine learning, natural language processing, or computer vision, we have the expertise to develop custom AI solutions that meet your unique needs.
         </p>
         <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-          Read more
+          Discover
           <svg
             className="w-2.5 h-2.5"
             width={16}
