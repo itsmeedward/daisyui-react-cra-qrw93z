@@ -63,8 +63,7 @@ export default function Services() {
         <div className="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
           <img
             className="w-full h-full absolute top-0 left-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl"
-            src="https://images.unsplash.com/photo-1586232702178-f044c5f4d4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80"
-            alt="Image Description"
+            src="https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
           />
           <span className="absolute top-0 right-0 rounded-tr-xl rounded-bl-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3 dark:bg-gray-900">
             Hot
@@ -75,8 +74,7 @@ export default function Services() {
             Studio by Preline
           </h3>
           <p className="mt-3 text-gray-800 dark:text-gray-200">
-            Produce professional, reliable streams easily leveraging Preline's
-            innovative broadcast studio
+          We specialize in delivering powerful, user-friendly web solutions that help businesses succeed. Discover how we can help you achieve your goals today!
           </p>
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
             Read more
@@ -137,7 +135,7 @@ export default function Services() {
       {/* End Card */}
       {/* Card */}
       <a
-        className="group relative flex flex-col w-full min-h-[15rem] bg-center bg-cover rounded-xl hover:shadow-lg transition bg-[url('https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3000&q=80')]"
+        className="group relative flex flex-col w-full min-h-[15rem] bg-center bg-cover rounded-xl hover:shadow-lg transition bg-[url('https://images.unsplash.com/photo-1635434225286-8208e890e784?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80')]"
         href="#"
       >
         <div className="flex-auto p-4 md:p-6">
