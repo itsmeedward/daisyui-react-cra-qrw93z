@@ -11,6 +11,7 @@ import About from './pages/about/about/main';
 import P404 from './pages/404';
 import Test from './pages/main/test';
 import Webservice from './pages/services/web/main';
+import Blockchain from './pages/services/web/blockchain/main';
 
 const App = (props) => {
   return (
@@ -26,6 +27,7 @@ const App = (props) => {
           <Route path="/Privacy" element={<Privacy />} />
           <Route path="/test" element={<Test />} />
           <Route path="/Webservice" element={<Webservice />} />
+          <Route path="/Blockchain" element={<Blockchain />} />
           <Route path="/*" element={<P404 />} />
         </Routes>
         <Footer />
