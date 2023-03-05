@@ -1,4 +1,15 @@
+import { useEffect, useState } from 'react';
+import Lottie from 'react-lottie';
+
 export default function Fifth() {
+  const [animationData, setAnimationData] = useState(null);
+
+  useEffect(() => {
+    fetch('https://assets1.lottiefiles.com/packages/lf20_nOfkZot060.json')
+      .then(response => response.json())
+      .then(data => setAnimationData(data));
+  }, []);
+
   return (
     <section className="bg-white dark:bg-gray-900">
     <div className="container px-6 py-10 mx-auto">
@@ -106,11 +117,16 @@ export default function Fifth() {
           </div>
         </div>
         <div className="hidden lg:flex lg:items-center lg:w-1/2 lg:justify-center">
-          <img
-            className="w-[28rem] h-[28rem] object-cover xl:w-[34rem] xl:h-[34rem] rounded-full"
-            src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80"
-            alt=""
-          />
+         
+          {animationData && (
+        <Lottie className="w-[28rem] h-[28rem] object-cover xl:w-[34rem] xl:h-[34rem] rounded-full"
+          options={{
+            animationData: animationData,
+            loop: true,
+            autoplay: true
+          }}
+        />
+      )}
         </div>
       </div>
       <hr className="my-12 border-gray-200 dark:border-gray-700" />

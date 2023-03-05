@@ -1,6 +1,17 @@
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import Lottie from 'react-lottie';
+
 
 export default function P404() {
+  const [animationData, setAnimationData] = useState(null);
+
+  useEffect(() => {
+    fetch('https://assets4.lottiefiles.com/packages/lf20_afwjhfb2.json')
+      .then(response => response.json())
+      .then(data => setAnimationData(data));
+  }, []);
+
   return (
     <section className=" ">
   <div className="container min-h-screen px-6 py-12 mx-auto lg:flex lg:items-center lg:gap-12">
@@ -109,11 +120,16 @@ export default function P404() {
       </div>
     </div>
     <div className="relative w-full mt-8 lg:w-1/2 lg:mt-0">
-      <img
-        className=" w-full lg:h-[32rem] h-80 md:h-96 rounded-lg object-cover "
-        src="https://images.unsplash.com/photo-1508881598441-324f3974994b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
-        alt=""
-      />
+     
+      {animationData && (
+        <Lottie className=" w-full lg:h-[32rem] h-80 md:h-96 rounded-lg object-cover "
+          options={{
+            animationData: animationData,
+            loop: true,
+            autoplay: true
+          }}
+        />
+      )}
     </div>
   </div>
 </section>
