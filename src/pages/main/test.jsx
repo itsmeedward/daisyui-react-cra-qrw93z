@@ -3,491 +3,4891 @@ import React from 'react'
 export default function Test() {
   return (
     <>
-<>
-<header className="sticky top-0 inset-x-0 flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-white border-b border-gray-200 text-sm py-3 sm:py-0 dark:bg-gray-800 dark:border-gray-700">
-  <nav
-    className="relative max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8"
-    aria-label="Global"
+<div className="" id="content" data-global="true" data-path="global.0.0">
+  <section
+    data-section-id={2}
+    data-share=""
+    data-category="applications-light-mono"
+    data-component-id="43229a9f_01_awz"
+    data-config-id="background"
+    data-path={0}
   >
-    <div className="flex items-center justify-between">
-      <a
-        className="flex-none text-xl font-semibold dark:text-white"
-        href="#"
-        aria-label="Brand"
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
       >
-        Brand
-      </a>
-      <div className="sm:hidden">
-        <button
-          type="button"
-          className="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium bg-white text-gray-700 shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm dark:bg-slate-900 dark:hover:bg-slate-800 dark:border-gray-700 dark:text-gray-400 dark:hover:text-white dark:focus:ring-offset-gray-800"
-          data-hs-collapse="#navbar-collapse-with-animation"
-          aria-controls="navbar-collapse-with-animation"
-          aria-label="Toggle navigation"
-        >
-          <svg
-            className="hs-collapse-open:hidden w-4 h-4"
-            width={16}
-            height={16}
-            fill="currentColor"
-            viewBox="0 0 16 16"
-          >
-            <path
-              fillRule="evenodd"
-              d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"
-            />
-          </svg>
-          <svg
-            className="hs-collapse-open:block hidden w-4 h-4"
-            width={16}
-            height={16}
-            fill="currentColor"
-            viewBox="0 0 16 16"
-          >
-            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
-          </svg>
-        </button>
-      </div>
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
     </div>
     <div
-      id="navbar-collapse-with-animation"
-      className="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block"
+      className="pt-20 bg-green-600 overflow-hidden radius-for-skewed"
+      data-path="0.2"
     >
-      <div className="flex flex-col gap-y-4 gap-x-0 mt-5 sm:flex-row sm:items-center sm:justify-end sm:gap-y-0 sm:gap-x-7 sm:mt-0 sm:pl-7">
-        <a
-          className="font-medium text-blue-600 sm:py-6 dark:text-blue-500"
-          href="#"
-          aria-current="page"
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div
+          className="relative max-w-md mx-auto text-center"
+          data-path="0.2.0.0"
         >
-          Landing
-        </a>
-        <a
-          className="font-medium text-gray-500 hover:text-gray-400 sm:py-6 dark:text-gray-400 dark:hover:text-gray-500"
-          href="#"
-        >
-          Account
-        </a>
-        <a
-          className="font-medium text-gray-500 hover:text-gray-400 sm:py-6 dark:text-gray-400 dark:hover:text-gray-500"
-          href="#"
-        >
-          Work
-        </a>
-        <a
-          className="font-medium text-gray-500 hover:text-gray-400 sm:py-6 dark:text-gray-400 dark:hover:text-gray-500"
-          href="#"
-        >
-          Blog
-        </a>
-        <div className="hs-dropdown [--strategy:static] sm:[--strategy:fixed] [--adaptive:none] sm:[--trigger:hover] sm:py-4">
-          <button
-            type="button"
-            className="flex items-center w-full text-gray-500 hover:text-gray-400 font-medium dark:text-gray-400 dark:hover:text-gray-500 "
+          <a
+            className="mb-8 inline-block px-5 py-5 bg-white rounded-lg"
+            href="#"
+            data-path="0.2.0.0.0"
           >
-            Dropdown
-            <svg
-              className="ml-2 w-2.5 h-2.5 text-gray-600"
-              width={16}
-              height={16}
-              viewBox="0 0 16 16"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
-                stroke="currentColor"
-                strokeWidth={2}
-                strokeLinecap="round"
-              />
-            </svg>
-          </button>
-          <div className="hs-dropdown-menu transition-[opacity,margin] duration-[0.1ms] sm:duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 sm:w-48 hidden z-10 bg-white sm:shadow-md rounded-lg p-2 dark:bg-gray-800 sm:dark:border dark:border-gray-700 dark:divide-gray-700 before:absolute top-full sm:border before:-top-5 before:left-0 before:w-full before:h-5">
-            <a
-              className="flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-              href="#"
-            >
-              About
-            </a>
-            <div className="hs-dropdown relative [--strategy:static] sm:[--strategy:absolute] [--adaptive:none] sm:[--trigger:hover]">
-              <button
-                type="button"
-                className="w-full flex justify-between w-full items-center text-sm text-gray-800 rounded-md py-2 px-3 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+            <img
+              className="h-12"
+              src="atis-assets/logo/atis/atis-mono-sign.svg"
+              alt=""
+              data-config-id="icon"
+              data-path="0.2.0.0.0.0"
+            />
+          </a>
+          <p
+            className="text-gray-50 font-bold"
+            data-config-id="caption"
+            data-path="0.2.0.0.1"
+          >
+            Dolor sit amet consectutar
+          </p>
+          <h2
+            className="text-4xl lg:text-5xl text-white font-bold"
+            data-config-id="header"
+            data-path="0.2.0.0.2"
+          >
+            Build &amp; Launch without problems
+          </h2>
+          <div className="h-80 mt-10" data-path="0.2.0.0.3">
+            <img
+              className="absolute bottom-0 left-1/2 transform -translate-x-1/2 h-80 z-10"
+              src="atis-assets/illustrations/book-detail.png"
+              alt=""
+              data-config-id="image1"
+              data-path="0.2.0.0.3.0"
+            />
+            <img
+              className="absolute bottom-0 left-0 h-80 -ml-16 -mb-20"
+              src="https://shuffle.dev/atis-assets/illustrations/details.png"
+              alt=""
+              data-config-id="image2"
+              data-path="0.2.0.0.3.1"
+            />
+            <img
+              className="absolute bottom-0 right-0 h-80 -mr-16 -mb-20"
+              src="atis-assets/illustrations/login.png"
+              alt=""
+              data-config-id="image3"
+              data-path="0.2.0.0.3.2"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    data-section-id={3}
+    data-share=""
+    data-category="call-to-action-flat-mono"
+    data-component-id="93943517_02_awz"
+    className="skewed-top-left skewed-bottom-right"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-green-600 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap" data-path="0.2.0.0">
+          <div
+            className="w-full lg:w-1/2 px-12 lg:px-24 mb-16 lg:mb-0"
+            data-path="0.2.0.0.0"
+          >
+            <div className="text-center" data-path="0.2.0.0.0.0">
+              <span
+                className="mb-6 inline-block p-3 bg-green-400 rounded"
+                data-path="0.2.0.0.0.0.0"
               >
-                Sub Menu
                 <svg
-                  className="sm:-rotate-90 ml-2 w-2.5 h-2.5 text-gray-600"
-                  width={16}
-                  height={16}
-                  viewBox="0 0 16 16"
-                  fill="none"
+                  className="w-6 h-6 text-green-200"
                   xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  data-config-id="auto-svg-1-2"
+                  data-path="0.2.0.0.0.0.0.0"
                 >
                   <path
-                    d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5"
-                    stroke="currentColor"
-                    strokeWidth={2}
+                    fillRule="evenodd"
+                    d="M6 6V5a3 3 0 013-3h2a3 3 0 013 3v1h2a2 2 0 012 2v3.57A22.952 22.952 0 0110 13a22.95 22.95 0 01-8-1.43V8a2 2 0 012-2h2zm2-1a1 1 0 011-1h2a1 1 0 011 1v1H8V5zm1 5a1 1 0 011-1h.01a1 1 0 110 2H10a1 1 0 01-1-1z"
+                    clipRule="evenodd"
+                    data-path="0.2.0.0.0.0.0.0.0"
+                  />
+                  <path
+                    d="M2 13.692V16a2 2 0 002 2h12a2 2 0 002-2v-2.308A24.974 24.974 0 0110 15c-2.796 0-5.487-.46-8-1.308z"
+                    data-path="0.2.0.0.0.0.0.0.1"
+                  />
+                </svg>
+              </span>
+              <h3
+                className="mb-2 text-4xl text-white font-bold font-heading"
+                data-config-id="header1"
+                data-path="0.2.0.0.0.0.1"
+              >
+                Many useful features
+              </h3>
+              <p
+                className="mb-6 text-gray-50 leading-loose"
+                data-config-id="desc1"
+                data-path="0.2.0.0.0.0.2"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Pellentesque efficitur nisl sodales egestas lobortis.
+              </p>
+              <a
+                className="inline-block py-2 px-6 bg-white hover:bg-gray-50 text-green-600 font-bold leading-loose rounded-l-xl rounded-t-xl transition duration-200"
+                href="#"
+                data-config-id="primary-action1"
+                data-path="0.2.0.0.0.0.3"
+              >
+                Get Started
+              </a>
+            </div>
+          </div>
+          <div className="w-full lg:w-1/2 px-12 lg:px-24" data-path="0.2.0.0.1">
+            <div className="text-center" data-path="0.2.0.0.1.0">
+              <span
+                className="mb-6 inline-block p-3 bg-green-400 rounded"
+                data-path="0.2.0.0.1.0.0"
+              >
+                <svg
+                  className="w-6 h-6 text-green-200"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-2-2"
+                  data-path="0.2.0.0.1.0.0.0"
+                >
+                  <path
                     strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                    data-path="0.2.0.0.1.0.0.0.0"
+                  />
+                </svg>
+              </span>
+              <h3
+                className="mb-2 text-4xl text-white font-bold font-heading"
+                data-config-id="header2"
+                data-path="0.2.0.0.1.0.1"
+              >
+                Customer experience
+              </h3>
+              <p
+                className="mb-6 text-gray-50 leading-loose"
+                data-config-id="desc2"
+                data-path="0.2.0.0.1.0.2"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Pellentesque efficitur nisl sodales egestas lobortis.
+              </p>
+              <a
+                className="inline-block py-2 px-6 bg-white hover:bg-gray-50 text-green-600 font-bold leading-loose rounded-l-xl rounded-t-xl transition duration-200"
+                href="#"
+                data-config-id="primary-action2"
+                data-path="0.2.0.0.1.0.3"
+              >
+                Get Started
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={4}
+    data-share=""
+    data-category="newsletter-flat-color"
+    data-component-id="7afd46ee_02_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-purple-600 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap items-center" data-path="0.2.0.0">
+          <div
+            className="mb-4 w-full lg:w-auto lg:mr-8 text-center"
+            data-path="0.2.0.0.0"
+          >
+            <div
+              className="flex justify-center items-center p-5 mx-auto w-16 h-16 bg-purple-400 rounded"
+              data-path="0.2.0.0.0.0"
+            >
+              <img
+                className="h-8"
+                src="atis-assets/logo/atis/atis-color-sign.svg"
+                alt=""
+                data-config-id="icon"
+                data-path="0.2.0.0.0.0.0"
+              />
+            </div>
+          </div>
+          <div
+            className="mb-6 w-full lg:w-auto max-w-lg mx-auto lg:ml-0 mr-auto text-center lg:text-left"
+            data-path="0.2.0.0.1"
+          >
+            <h2
+              className="text-white text-4xl font-bold font-heading"
+              data-config-id="header"
+              data-path="0.2.0.0.1.0"
+            >
+              Stay updated with our tool
+            </h2>
+            <p
+              className="text-gray-50"
+              data-config-id="desc"
+              data-path="0.2.0.0.1.1"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            </p>
+          </div>
+          <div className="w-full lg:w-2/5" data-path="0.2.0.0.2">
+            <form action="" data-path="0.2.0.0.2.0">
+              <div
+                className="max-w-md lg:max-w-sm mx-auto flex flex-wrap items-center"
+                data-path="0.2.0.0.2.0.0"
+              >
+                <input
+                  className="flex-grow py-3 px-4 mr-4 text-xs rounded leading-loose"
+                  type="email"
+                  placeholder="example@shuffle.dev"
+                  data-path="0.2.0.0.2.0.0.0"
+                />
+                <button
+                  className="flex-none py-2 px-6 rounded-t-xl rounded-l-xl bg-pink-600 hover:bg-pink-700 text-white font-bold leading-loose transition duration-200"
+                  data-config-id="primary-action"
+                  data-path="0.2.0.0.2.0.0.1"
+                >
+                  Sign Up
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={5}
+    data-share=""
+    data-category="testimonials-flat-mono"
+    data-component-id="5eaa3cbc_06_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div
+      className="py-20 bg-green-600 radius-for-skewed overflow-hidden"
+      data-path="0.2"
+    >
+      <div className="max-w-6xl mx-auto px-4 pb-6 lg:pb-16" data-path="0.2.0">
+        <div
+          className="flex flex-wrap justify-center lg:justify-between items-center text-center lg:text-left"
+          data-path="0.2.0.0"
+        >
+          <div className="w-full lg:w-4/5 mb-4 lg:mb-0" data-path="0.2.0.0.0">
+            <span
+              className="text-green-600 font-bold"
+              data-config-id="caption"
+              data-path="0.2.0.0.0.0"
+            >
+              Dolor sit amet consectutar
+            </span>
+            <h2
+              className="text-4xl lg:text-5xl font-bold text-white"
+              data-config-id="header"
+              data-path="0.2.0.0.0.1"
+            >
+              Testimonials
+            </h2>
+          </div>
+          <div className="w-full lg:w-1/5" data-path="0.2.0.0.1">
+            <button
+              className="mr-4 bg-white p-5 rounded-full shadow-md text-green-600 hover:text-green-700 transition duration-200"
+              data-path="0.2.0.0.1.0"
+            >
+              <svg
+                className="w-6 h-6"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                data-config-id="auto-svg-1-6"
+                data-path="0.2.0.0.1.0.0"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M10 19l-7-7m0 0l7-7m-7 7h18"
+                  data-path="0.2.0.0.1.0.0.0"
+                />
+              </svg>
+            </button>
+            <button
+              className="bg-white p-5 rounded-full shadow-md text-green-600 hover:text-green-700 transition duration-200"
+              data-path="0.2.0.0.1.1"
+            >
+              <svg
+                className="w-6 h-6"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                data-config-id="auto-svg-2-6"
+                data-path="0.2.0.0.1.1.0"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M14 5l7 7m0 0l-7 7m7-7H3"
+                  data-path="0.2.0.0.1.1.0.0"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div className="relative flex" data-path="0.2.1">
+        <div
+          className="hidden lg:block absolute top-0 left-0 lg:w-1/3 px-3 -ml-80 opacity-25"
+          data-path="0.2.1.0"
+        >
+          <div
+            className="p-8 bg-white rounded shadow text-center"
+            data-path="0.2.1.0.0"
+          >
+            <div
+              className="bg-no-repeat bg-left-top"
+              style={{
+                backgroundImage: 'url("atis-assets/elements/quote-grey.svg")'
+              }}
+              data-config-id="auto-img-1"
+              data-path="0.2.1.0.0.0"
+            >
+              <p
+                className="mb-8 text-gray-500 leading-loose"
+                data-config-id="desc1"
+                data-path="0.2.1.0.0.0.0"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Pellentesque et placerat metus. Morbi aliquet felis sit amet
+                erat finibus, ac condimentum ligula ornare.
+              </p>
+              <img
+                className="mb-2 mx-auto w-12 h-12 rounded-full object-cover"
+                src="https://images.unsplash.com/photo-1484588168347-9d835bb09939?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+                alt=""
+                data-config-id="image1"
+                data-path="0.2.1.0.0.0.1"
+              />
+              <h4
+                className="mb-1 text-2xl font-bold font-heading"
+                data-config-id="name1"
+                data-path="0.2.1.0.0.0.2"
+              >
+                Alice Bradley
+              </h4>
+              <p
+                className="text-gray-500"
+                data-config-id="job1"
+                data-path="0.2.1.0.0.0.3"
+              >
+                Backend Developer
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="flex flex-wrap max-w-6xl px-2 mx-auto"
+          data-path="0.2.1.1"
+        >
+          <div className="mb-4 w-full lg:w-1/3 px-3" data-path="0.2.1.1.0">
+            <div
+              className="p-8 bg-white rounded shadow text-center"
+              data-path="0.2.1.1.0.0"
+            >
+              <div
+                className="bg-no-repeat bg-left-top"
+                style={{
+                  backgroundImage: 'url("atis-assets/elements/quote-grey.svg")'
+                }}
+                data-config-id="auto-img-2"
+                data-path="0.2.1.1.0.0.0"
+              >
+                <p
+                  className="mb-8 text-gray-500 leading-loose"
+                  data-config-id="desc2"
+                  data-path="0.2.1.1.0.0.0.0"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Pellentesque et placerat metus. Morbi aliquet felis sit amet
+                  erat finibus, ac condimentum ligula ornare.
+                </p>
+                <img
+                  className="mb-2 mx-auto w-12 h-12 rounded-full object-cover"
+                  src="https://images.unsplash.com/photo-1484588168347-9d835bb09939?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+                  alt=""
+                  data-config-id="image2"
+                  data-path="0.2.1.1.0.0.0.1"
+                />
+                <h4
+                  className="mb-1 text-2xl font-bold font-heading"
+                  data-config-id="name2"
+                  data-path="0.2.1.1.0.0.0.2"
+                >
+                  Alice Bradley
+                </h4>
+                <p
+                  className="text-gray-500"
+                  data-config-id="job2"
+                  data-path="0.2.1.1.0.0.0.3"
+                >
+                  Backend Developer
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="mb-4 w-full lg:w-1/3 px-3" data-path="0.2.1.1.1">
+            <div
+              className="p-8 bg-white rounded shadow text-center"
+              data-path="0.2.1.1.1.0"
+            >
+              <div
+                className="bg-no-repeat bg-left-top"
+                style={{
+                  backgroundImage: 'url("atis-assets/elements/quote-grey.svg")'
+                }}
+                data-config-id="auto-img-3"
+                data-path="0.2.1.1.1.0.0"
+              >
+                <p
+                  className="mb-8 text-gray-500 leading-loose"
+                  data-config-id="desc3"
+                  data-path="0.2.1.1.1.0.0.0"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Pellentesque et placerat metus. Morbi aliquet felis sit amet
+                  erat finibus, ac condimentum ligula ornare.
+                </p>
+                <img
+                  className="mb-2 mx-auto w-12 h-12 rounded-full object-cover"
+                  src="https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
+                  alt=""
+                  data-config-id="image3"
+                  data-path="0.2.1.1.1.0.0.1"
+                />
+                <h4
+                  className="mb-1 text-2xl font-bold font-heading"
+                  data-config-id="name3"
+                  data-path="0.2.1.1.1.0.0.2"
+                >
+                  Dennis Robertson
+                </h4>
+                <p
+                  className="text-gray-500"
+                  data-config-id="job3"
+                  data-path="0.2.1.1.1.0.0.3"
+                >
+                  Frontend Developer
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="mb-4 w-full lg:w-1/3 px-3" data-path="0.2.1.1.2">
+            <div
+              className="p-8 bg-white rounded shadow text-center"
+              data-path="0.2.1.1.2.0"
+            >
+              <div
+                className="bg-no-repeat bg-left-top"
+                style={{
+                  backgroundImage: 'url("atis-assets/elements/quote-grey.svg")'
+                }}
+                data-config-id="auto-img-4"
+                data-path="0.2.1.1.2.0.0"
+              >
+                <p
+                  className="mb-8 text-gray-500 leading-loose"
+                  data-config-id="desc4"
+                  data-path="0.2.1.1.2.0.0.0"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Pellentesque et placerat metus. Morbi aliquet felis sit amet
+                  erat finibus, ac condimentum ligula ornare.
+                </p>
+                <img
+                  className="mb-2 mx-auto w-12 h-12 rounded-full object-cover"
+                  src="https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+                  alt=""
+                  data-config-id="image4"
+                  data-path="0.2.1.1.2.0.0.1"
+                />
+                <h4
+                  className="mb-1 text-2xl font-bold font-heading"
+                  data-config-id="name4"
+                  data-path="0.2.1.1.2.0.0.2"
+                >
+                  Daisy Carter
+                </h4>
+                <p
+                  className="text-gray-500"
+                  data-config-id="job4"
+                  data-path="0.2.1.1.2.0.0.3"
+                >
+                  Product Developer
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="hidden lg:block absolute top-0 right-0 lg:w-1/3 px-3 -mr-80 opacity-25"
+          data-path="0.2.1.2"
+        >
+          <div
+            className="p-8 bg-white rounded shadow text-center"
+            data-path="0.2.1.2.0"
+          >
+            <div
+              className="bg-no-repeat bg-left-top"
+              style={{
+                backgroundImage: 'url("atis-assets/elements/quote-grey.svg")'
+              }}
+              data-config-id="auto-img-5"
+              data-path="0.2.1.2.0.0"
+            >
+              <p
+                className="mb-8 text-gray-500 leading-loose"
+                data-config-id="desc5"
+                data-path="0.2.1.2.0.0.0"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Pellentesque et placerat metus. Morbi aliquet felis sit amet
+                erat finibus, ac condimentum ligula ornare.
+              </p>
+              <img
+                className="mb-2 mx-auto w-12 h-12 rounded-full object-cover"
+                src="https://images.unsplash.com/photo-1484588168347-9d835bb09939?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+                alt=""
+                data-config-id="image5"
+                data-path="0.2.1.2.0.0.1"
+              />
+              <h4
+                className="mb-1 text-2xl font-bold font-heading"
+                data-config-id="name5"
+                data-path="0.2.1.2.0.0.2"
+              >
+                Alice Bradley
+              </h4>
+              <p
+                className="text-gray-500"
+                data-config-id="job5"
+                data-path="0.2.1.2.0.0.3"
+              >
+                Backend Developer
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={6}
+    data-share=""
+    data-category="pricing-flat-mono"
+    data-component-id="1aaadf91_02_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-green-600 radius-for-skewed" data-path="0.2">
+      <div className="container px-4 mx-auto" data-path="0.2.0">
+        <div
+          className="mb-16 max-w-2xl mx-auto text-center"
+          data-path="0.2.0.0"
+        >
+          <div className="max-w-lg mx-auto" data-path="0.2.0.0.0">
+            <span
+              className="text-green-400 font-bold"
+              data-config-id="badge"
+              data-path="0.2.0.0.0.0"
+            >
+              Dolor sit amet consectutar
+            </span>
+            <h2
+              className="mb-2 text-4xl lg:text-5xl font-bold font-heading text-white"
+              data-config-id="header"
+              data-path="0.2.0.0.0.1"
+            >
+              All the tools you need in one workspace.
+            </h2>
+            <p
+              className="mb-6 text-gray-50"
+              data-config-id="desc"
+              data-path="0.2.0.0.0.2"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            </p>
+          </div>
+          <div
+            className="inline-block py-1 px-1 bg-green-500 rounded-lg"
+            data-path="0.2.0.0.1"
+          >
+            <button
+              className="mr-1 text-sm py-2 px-4 text-green-600 hover:text-green-700 font-bold"
+              data-config-id="billing1"
+              data-path="0.2.0.0.1.0"
+            >
+              Monthly
+            </button>
+            <button
+              className="text-sm py-2 px-4 text-white bg-green-600 rounded-lg shadow-md font-bold"
+              data-config-id="billing2"
+              data-path="0.2.0.0.1.1"
+            >
+              Yearly
+            </button>
+          </div>
+        </div>
+        <div className="flex flex-wrap -mx-4" data-path="0.2.0.1">
+          <div
+            className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8 lg:mb-0"
+            data-path="0.2.0.1.0"
+          >
+            <div
+              className="p-8 bg-white shadow rounded text-center"
+              data-path="0.2.0.1.0.0"
+            >
+              <h4
+                className="mb-2 text-2xl font-bold font-heading"
+                data-config-id="01_title"
+                data-path="0.2.0.1.0.0.0"
+              >
+                Beginner
+              </h4>
+              <span
+                className="text-6xl font-bold"
+                data-config-id="01_price"
+                data-path="0.2.0.1.0.0.1"
+              >
+                Free
+              </span>
+              <ul className="my-6 text-gray-500" data-path="0.2.0.1.0.0.2">
+                <li
+                  className="mb-2"
+                  data-config-id="01_benefit1"
+                  data-path="0.2.0.1.0.0.2.0"
+                >
+                  Vestibulum viverra
+                </li>
+                <li
+                  className="mb-2"
+                  data-config-id="01_benefit2"
+                  data-path="0.2.0.1.0.0.2.1"
+                >
+                  Morbi mollis metus pretium
+                </li>
+                <li
+                  className="mb-2"
+                  data-config-id="01_benefit3"
+                  data-path="0.2.0.1.0.0.2.2"
+                >
+                  Etiam lectus nunc, commodo
+                </li>
+              </ul>
+              <a
+                className="block text-center py-2 px-4 w-full rounded-l-xl rounded-t-xl bg-green-600 hover:bg-green-700 text-white font-bold leading-loose transition duration-200"
+                href="#"
+                data-config-id="01_primary-action"
+                data-path="0.2.0.1.0.0.3"
+              >
+                Get Started
+              </a>
+            </div>
+          </div>
+          <div
+            className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8 lg:mb-0"
+            data-path="0.2.0.1.1"
+          >
+            <div
+              className="p-8 bg-gray-900 shadow rounded text-center"
+              data-path="0.2.0.1.1.0"
+            >
+              <h4
+                className="mb-2 text-2xl font-bold text-white"
+                data-config-id="02_title"
+                data-path="0.2.0.1.1.0.0"
+              >
+                Intermediate
+              </h4>
+              <span
+                className="text-6xl font-bold text-white"
+                data-config-id="02_price"
+                data-path="0.2.0.1.1.0.1"
+              >
+                $24
+              </span>
+              <span
+                className="text-gray-50 text-xs"
+                data-config-id="02_note"
+                data-path="0.2.0.1.1.0.2"
+              >
+                /month
+              </span>
+              <ul
+                className="my-6 text-gray-50 text-center"
+                data-path="0.2.0.1.1.0.3"
+              >
+                <li
+                  className="mb-2"
+                  data-config-id="02_benefit1"
+                  data-path="0.2.0.1.1.0.3.0"
+                >
+                  Vestibulum viverra
+                </li>
+                <li
+                  className="mb-2"
+                  data-config-id="02_benefit2"
+                  data-path="0.2.0.1.1.0.3.1"
+                >
+                  Morbi mollis metus pretium
+                </li>
+                <li
+                  className="mb-2"
+                  data-config-id="02_benefit3"
+                  data-path="0.2.0.1.1.0.3.2"
+                >
+                  Etiam lectus nunc, commodo
+                </li>
+              </ul>
+              <a
+                className="block text-center py-2 px-4 w-full rounded-l-xl rounded-t-xl bg-white hover:bg-gray-100 font-bold leading-loose transition duration-200"
+                href="#"
+                data-config-id="02_primary-action"
+                data-path="0.2.0.1.1.0.4"
+              >
+                Get Started
+              </a>
+            </div>
+          </div>
+          <div className="w-full lg:w-1/3 px-4 lg:mb-0" data-path="0.2.0.1.2">
+            <div
+              className="p-8 bg-white shadow rounded text-center"
+              data-path="0.2.0.1.2.0"
+            >
+              <h4
+                className="mb-2 text-2xl font-bold font-heading"
+                data-config-id="03_title"
+                data-path="0.2.0.1.2.0.0"
+              >
+                Professional
+              </h4>
+              <span
+                className="text-6xl font-bold"
+                data-config-id="03_price"
+                data-path="0.2.0.1.2.0.1"
+              >
+                $48
+              </span>
+              <span
+                className="text-gray-400 text-xs"
+                data-config-id="03_note"
+                data-path="0.2.0.1.2.0.2"
+              >
+                /month
+              </span>
+              <ul className="my-6 text-gray-500" data-path="0.2.0.1.2.0.3">
+                <li
+                  className="mb-2"
+                  data-config-id="03_benefit1"
+                  data-path="0.2.0.1.2.0.3.0"
+                >
+                  Vestibulum viverra
+                </li>
+                <li
+                  className="mb-2"
+                  data-config-id="03_benefit2"
+                  data-path="0.2.0.1.2.0.3.1"
+                >
+                  Morbi mollis metus pretium
+                </li>
+                <li
+                  className="mb-2"
+                  data-config-id="03_benefit3"
+                  data-path="0.2.0.1.2.0.3.2"
+                >
+                  Etiam lectus nunc, commodo
+                </li>
+              </ul>
+              <a
+                className="block text-center py-2 px-4 w-full rounded-l-xl rounded-t-xl bg-green-600 hover:bg-green-700 text-white font-bold leading-loose transition duration-200"
+                href="#"
+                data-config-id="03_primary-action"
+                data-path="0.2.0.1.2.0.4"
+              >
+                Get Started
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={7}
+    data-share=""
+    data-category="features-light-color"
+    data-component-id="ef15d1da_01_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-50 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="mb-16 max-w-md mx-auto text-center" data-path="0.2.0.0">
+          <span
+            className="text-purple-600 font-bold"
+            data-config-id="badge"
+            data-path="0.2.0.0.0"
+          >
+            Dolor sit amet consectutar
+          </span>
+          <h2
+            className="text-4xl md:text-5xl font-bold"
+            data-config-id="header"
+            data-path="0.2.0.0.1"
+          >
+            Build &amp; Launch without problems
+          </h2>
+        </div>
+        <div className="flex flex-wrap -mx-4" data-path="0.2.0.1">
+          <div
+            className="mb-12 lg:mb-0 w-full md:w-1/2 lg:w-1/4 px-4"
+            data-path="0.2.0.1.0"
+          >
+            <span
+              className="mb-4 md:mb-6 inline-block bg-blue-100 p-3 text-blue-500 rounded"
+              data-path="0.2.0.1.0.0"
+            >
+              <svg
+                className="w-8 h-8"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                data-config-id="auto-svg-1-1"
+                data-path="0.2.0.1.0.0.0"
+              >
+                <path
+                  d="M3 1a1 1 0 000 2h1.22l.305 1.222a.997.997 0 00.01.042l1.358 5.43-.893.892C3.74 11.846 4.632 14 6.414 14H15a1 1 0 000-2H6.414l1-1H14a1 1 0 00.894-.553l3-6A1 1 0 0017 3H6.28l-.31-1.243A1 1 0 005 1H3zM16 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM6.5 18a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"
+                  data-path="0.2.0.1.0.0.0.0"
+                />
+              </svg>
+            </span>
+            <h4
+              className="mb-4 text-2xl font-bold font-heading"
+              data-config-id="header1"
+              data-path="0.2.0.1.0.1"
+            >
+              Lorem ipsum dolor sit amet consectutar
+            </h4>
+            <p
+              className="text-gray-500 leading-loose"
+              data-config-id="desc1"
+              data-path="0.2.0.1.0.2"
+            >
+              Fusce quam tellus, placerat eu metus ut, viverra aliquet purus.
+              Suspendisse potenti. Nulla non nibh feugiat.
+            </p>
+          </div>
+          <div
+            className="mb-12 lg:mb-0 w-full md:w-1/2 lg:w-1/4 px-4"
+            data-path="0.2.0.1.1"
+          >
+            <span
+              className="mb-4 md:mb-6 inline-block bg-pink-100 p-3 text-pink-500 rounded"
+              data-path="0.2.0.1.1.0"
+            >
+              <svg
+                className="w-8 h-8"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                data-config-id="auto-svg-2-1"
+                data-path="0.2.0.1.1.0.0"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 0l-2 2a1 1 0 101.414 1.414L8 10.414l1.293 1.293a1 1 0 001.414 0l4-4z"
+                  clipRule="evenodd"
+                  data-path="0.2.0.1.1.0.0.0"
+                />
+              </svg>
+            </span>
+            <h4
+              className="mb-4 text-2xl font-bold font-heading"
+              data-config-id="header2"
+              data-path="0.2.0.1.1.1"
+            >
+              Ut congue nec leo eget aliquam
+            </h4>
+            <p
+              className="text-gray-500 leading-loose"
+              data-config-id="desc2"
+              data-path="0.2.0.1.1.2"
+            >
+              Ut tempus tellus ac nisi vestibulum tempus. Nunc tincidunt lectus
+              libero, ac ultricies augue elementum at.
+            </p>
+          </div>
+          <div
+            className="mb-12 lg:mb-0 w-full md:w-1/2 lg:w-1/4 px-4"
+            data-path="0.2.0.1.2"
+          >
+            <span
+              className="mb-4 md:mb-6 inline-block bg-yellow-100 p-3 text-yellow-500 rounded"
+              data-path="0.2.0.1.2.0"
+            >
+              <svg
+                className="w-8 h-8"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                data-config-id="auto-svg-3-1"
+                data-path="0.2.0.1.2.0.0"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                  data-path="0.2.0.1.2.0.0.0"
+                />
+              </svg>
+            </span>
+            <h4
+              className="mb-4 text-2xl font-bold font-heading"
+              data-config-id="header3"
+              data-path="0.2.0.1.2.1"
+            >
+              Proin fringilla eleifend justo pellentesque
+            </h4>
+            <p
+              className="text-gray-500 leading-loose"
+              data-config-id="desc3"
+              data-path="0.2.0.1.2.2"
+            >
+              Donec ut ligula nunc. Mauris blandit vel est et facilisis. Integer
+              sapien felis, aliquet at posuere et, porttitor quis ligula.
+            </p>
+          </div>
+          <div className="w-full md:w-1/2 lg:w-1/4 px-4" data-path="0.2.0.1.3">
+            <span
+              className="mb-4 md:mb-6 inline-block bg-purple-100 p-3 text-purple-500 rounded"
+              data-path="0.2.0.1.3.0"
+            >
+              <svg
+                className="w-8 h-8"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                data-config-id="auto-svg-4-1"
+                data-path="0.2.0.1.3.0.0"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M6 6V5a3 3 0 013-3h2a3 3 0 013 3v1h2a2 2 0 012 2v3.57A22.952 22.952 0 0110 13a22.95 22.95 0 01-8-1.43V8a2 2 0 012-2h2zm2-1a1 1 0 011-1h2a1 1 0 011 1v1H8V5zm1 5a1 1 0 011-1h.01a1 1 0 110 2H10a1 1 0 01-1-1z"
+                  clipRule="evenodd"
+                  data-path="0.2.0.1.3.0.0.0"
+                />
+                <path
+                  d="M2 13.692V16a2 2 0 002 2h12a2 2 0 002-2v-2.308A24.974 24.974 0 0110 15c-2.796 0-5.487-.46-8-1.308z"
+                  data-path="0.2.0.1.3.0.0.1"
+                />
+              </svg>
+            </span>
+            <h4
+              className="mb-4 text-2xl font-bold font-heading"
+              data-config-id="header4"
+              data-path="0.2.0.1.3.1"
+            >
+              Morbi sagittis ligula sit amet elit maximus
+            </h4>
+            <p
+              className="text-gray-500 leading-loose"
+              data-config-id="desc4"
+              data-path="0.2.0.1.3.2"
+            >
+              Duis ut facilisis orci. Morbi lacinia nunc a augue eleifend, sed
+              placerat ex faucibus. Duis ante arcu, pretium ac luctus vulputate.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={8}
+    data-share=""
+    data-category="logo-clouds-light-color"
+    data-component-id="61098559_05_awz"
+    className="py-20"
+    data-path={0}
+  >
+    <div className="container mx-auto px-4" data-path={0.0}>
+      <div className="flex flex-wrap items-center" data-path="0.0.0">
+        <div className="mb-12 lg:mb-0 w-full lg:w-1/2" data-path="0.0.0.0">
+          <div className="max-w-md" data-path="0.0.0.0.0">
+            <h2
+              className="mb-4 text-4xl lg:text-5xl font-bold font-heading"
+              data-config-id="header"
+              data-path="0.0.0.0.0.0"
+            >
+              Trusted by brands all over the world
+            </h2>
+            <p
+              className="text-gray-500 leading-loose"
+              data-config-id="desc"
+              data-path="0.0.0.0.0.1"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Pellentesque efficitur nisl sodales egestas lobortis.
+            </p>
+          </div>
+        </div>
+        <div
+          className="w-full lg:w-1/2 flex flex-wrap -mx-2"
+          data-path="0.0.0.1"
+        >
+          <div className="mb-4 w-full lg:w-1/3 px-2" data-path="0.0.0.1.0">
+            <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.0.0">
+              <img
+                className="mx-auto h-6"
+                src="atis-assets/logo/brands/slack.png"
+                alt=""
+                data-config-id="image1"
+                data-path="0.0.0.1.0.0.0"
+              />
+            </div>
+          </div>
+          <div className="mb-4 w-full lg:w-1/3 px-2" data-path="0.0.0.1.1">
+            <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.1.0">
+              <img
+                className="mx-auto h-6"
+                src="atis-assets/logo/brands/dropbox.png"
+                alt=""
+                data-config-id="image2"
+                data-path="0.0.0.1.1.0.0"
+              />
+            </div>
+          </div>
+          <div className="mb-4 w-full lg:w-1/3 px-2" data-path="0.0.0.1.2">
+            <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.2.0">
+              <img
+                className="mx-auto h-6"
+                src="atis-assets/logo/brands/spotify.png"
+                alt=""
+                data-config-id="image3"
+                data-path="0.0.0.1.2.0.0"
+              />
+            </div>
+          </div>
+          <div className="mb-4 w-full lg:w-1/3 px-2" data-path="0.0.0.1.3">
+            <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.3.0">
+              <img
+                className="mx-auto h-6"
+                src="atis-assets/logo/brands/amazon.png"
+                alt=""
+                data-config-id="image4"
+                data-path="0.0.0.1.3.0.0"
+              />
+            </div>
+          </div>
+          <div className="mb-4 w-full lg:w-1/3 px-2" data-path="0.0.0.1.4">
+            <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.4.0">
+              <img
+                className="mx-auto h-6"
+                src="atis-assets/logo/brands/netflix.png"
+                alt=""
+                data-config-id="image5"
+                data-path="0.0.0.1.4.0.0"
+              />
+            </div>
+          </div>
+          <div className="w-full lg:w-1/3 px-2" data-path="0.0.0.1.5">
+            <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.5.0">
+              <img
+                className="mx-auto h-6"
+                src="atis-assets/logo/brands/stripe.png"
+                alt=""
+                data-config-id="image6"
+                data-path="0.0.0.1.5.0.0"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    data-section-id={9}
+    data-share=""
+    data-category="how-it-works-flat-mono"
+    data-component-id="e848cd6e_01_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-green-600 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap items-center" data-path="0.2.0.0">
+          <div className="w-full lg:w-1/2 mb-12 lg:mb-0" data-path="0.2.0.0.0">
+            <div className="max-w-md" data-path="0.2.0.0.0.0">
+              <span
+                className="text-green-600 font-bold"
+                data-config-id="caption"
+                data-path="0.2.0.0.0.0.0"
+              >
+                Dolor sit amet consectutar
+              </span>
+              <h2
+                className="mb-2 text-4xl lg:text-5xl font-bold font-heading text-white"
+                data-config-id="header"
+                data-path="0.2.0.0.0.0.1"
+              >
+                Build &amp; Launch without problems
+              </h2>
+              <div className="max-w-xs" data-path="0.2.0.0.0.0.2">
+                <p
+                  className="text-gray-50 leading-loose"
+                  data-config-id="desc"
+                  data-path="0.2.0.0.0.0.2.0"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Pellentesque efficitur nisl sodales egestas lobortis.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="w-full lg:w-1/2" data-path="0.2.0.0.1">
+            <div
+              className="mb-12 lg:mb-8 flex flex-wrap items-start"
+              data-path="0.2.0.0.1.0"
+            >
+              <span
+                className="mb-4 lg:mb-0 lg:mr-6 inline-flex items-center justify-center w-16 h-16 bg-green-400 rounded text-white text-2xl font-bold"
+                data-path="0.2.0.0.1.0.0"
+              >
+                1
+              </span>
+              <div className="w-full lg:w-3/4" data-path="0.2.0.0.1.0.1">
+                <h3
+                  className="mb-4 text-2xl font-bold font-heading text-white"
+                  data-config-id="header1"
+                  data-path="0.2.0.0.1.0.1.0"
+                >
+                  Lorem ipsum dolor sit amet consectutar
+                </h3>
+                <p
+                  className="text-gray-50 leading-loose"
+                  data-config-id="desc1"
+                  data-path="0.2.0.0.1.0.1.1"
+                >
+                  Fusce quam tellus, placerat eu metus ut, viverra aliquet
+                  purus. Suspendisse potenti. Nulla non nibh feugiat.
+                </p>
+              </div>
+            </div>
+            <div
+              className="mb-12 lg:mb-8 flex flex-wrap items-start"
+              data-path="0.2.0.0.1.1"
+            >
+              <span
+                className="mb-4 lg:mb-0 lg:mr-6 inline-flex items-center justify-center w-16 h-16 bg-green-400 rounded text-white text-2xl font-bold"
+                data-path="0.2.0.0.1.1.0"
+              >
+                2
+              </span>
+              <div className="w-full lg:w-3/4" data-path="0.2.0.0.1.1.1">
+                <h3
+                  className="mb-4 text-2xl font-bold font-heading text-white"
+                  data-config-id="header2"
+                  data-path="0.2.0.0.1.1.1.0"
+                >
+                  Lorem ipsum dolor sit amet consectutar
+                </h3>
+                <p
+                  className="text-gray-50 leading-loose"
+                  data-config-id="desc2"
+                  data-path="0.2.0.0.1.1.1.1"
+                >
+                  Fusce quam tellus, placerat eu metus ut, viverra aliquet
+                  purus. Suspendisse potenti. Nulla non nibh feugiat.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-wrap items-start" data-path="0.2.0.0.1.2">
+              <span
+                className="mb-4 lg:mb-0 lg:mr-6 inline-flex items-center justify-center w-16 h-16 bg-green-400 rounded text-white text-2xl font-bold"
+                data-path="0.2.0.0.1.2.0"
+              >
+                3
+              </span>
+              <div className="w-full lg:w-3/4" data-path="0.2.0.0.1.2.1">
+                <h3
+                  className="mb-4 text-2xl font-bold font-heading text-white"
+                  data-config-id="header3"
+                  data-path="0.2.0.0.1.2.1.0"
+                >
+                  Lorem ipsum dolor sit amet consectutar
+                </h3>
+                <p
+                  className="text-gray-50 leading-loose"
+                  data-config-id="desc3"
+                  data-path="0.2.0.0.1.2.1.1"
+                >
+                  Fusce quam tellus, placerat eu metus ut, viverra aliquet
+                  purus. Suspendisse potenti. Nulla non nibh feugiat.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={10}
+    data-share=""
+    data-category="http-codes-dark-mono"
+    data-component-id="e91ba4d2_02_awz"
+    className="py-20 bg-gray-900"
+    data-path={0}
+  >
+    <div className="container mx-auto px-4" data-path={0.0}>
+      <div className="max-w-xl mx-auto" data-path="0.0.0">
+        <div className="py-12 px-6 bg-white rounded shadow" data-path="0.0.0.0">
+          <img
+            className="mx-auto"
+            src="atis-assets/illustrations/pablo.png"
+            alt=""
+            data-config-id="image"
+            data-path="0.0.0.0.0"
+          />
+          <div className="text-center" data-path="0.0.0.0.1">
+            <span
+              className="mb-6 text-4xl text-green-600 font-bold"
+              data-config-id="caption"
+              data-path="0.0.0.0.1.0"
+            >
+              Whoops!
+            </span>
+            <h3
+              className="mb-2 text-4xl font-bold"
+              data-config-id="header"
+              data-path="0.0.0.0.1.1"
+            >
+              Something went wrong!
+            </h3>
+            <p
+              className="mb-8 text-gray-400"
+              data-config-id="desc"
+              data-path="0.0.0.0.1.2"
+            >
+              Sorry, but we are unable to open this page
+            </p>
+            <div data-path="0.0.0.0.1.3">
+              <a
+                className="w-full lg:w-auto mb-2 lg:mb-0 lg:mr-4 inline-block py-2 px-6 rounded-l-xl rounded-t-xl font-bold leading-loose text-gray-50 bg-green-600 hover:bg-green-700"
+                href="#"
+                data-config-id="primary-action"
+                data-path="0.0.0.0.1.3.0"
+              >
+                Go back to Homepage
+              </a>
+              <a
+                className="w-full lg:w-auto inline-block py-2 px-6 rounded-l-xl rounded-t-xl font-bold leading-loose bg-white hover:bg-gray-50"
+                href="#"
+                data-config-id="secondary-action"
+                data-path="0.0.0.0.1.3.1"
+              >
+                Try Again
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    data-section-id={11}
+    data-share=""
+    data-category="stats-light-mono"
+    data-component-id="7adc2ecc_04_awz"
+    className="py-20 bg-gray-50"
+    data-path={0}
+  >
+    <div className="container mx-auto px-4" data-path={0.0}>
+      <div className="flex flex-wrap text-center -mx-4" data-path="0.0.0">
+        <div className="mb-8 w-full lg:w-1/4 px-4" data-path="0.0.0.0">
+          <div
+            className="relative py-10 bg-white shadow rounded"
+            data-path="0.0.0.0.0"
+          >
+            <img
+              className="h-40 absolute inset-0 mt-2 mx-auto"
+              src="atis-assets/elements/puzzle.svg"
+              alt=""
+              data-config-id="auto-img-1"
+              data-path="0.0.0.0.0.0"
+            />
+            <h4
+              className="mb-1 text-green-600"
+              data-config-id="desc1"
+              data-path="0.0.0.0.0.1"
+            >
+              Total Revenue
+            </h4>
+            <span
+              className="text-3xl lg:text-4xl font-bold"
+              data-config-id="value1"
+              data-path="0.0.0.0.0.2"
+            >
+              $33,261
+            </span>
+          </div>
+        </div>
+        <div className="mb-8 w-full lg:w-1/4 px-4" data-path="0.0.0.1">
+          <div
+            className="relative py-10 bg-white shadow rounded"
+            data-path="0.0.0.1.0"
+          >
+            <img
+              className="h-40 absolute inset-0 mt-2 mx-auto"
+              src="atis-assets/elements/user-circle.svg"
+              alt=""
+              data-config-id="auto-img-2"
+              data-path="0.0.0.1.0.0"
+            />
+            <h4
+              className="mb-2 text-green-600"
+              data-config-id="desc2"
+              data-path="0.0.0.1.0.1"
+            >
+              Subscribers
+            </h4>
+            <span
+              className="text-3xl lg:text-4xl font-bold"
+              data-config-id="value2"
+              data-path="0.0.0.1.0.2"
+            >
+              481,095
+            </span>
+          </div>
+        </div>
+        <div className="mb-8 w-full lg:w-1/4 px-4" data-path="0.0.0.2">
+          <div
+            className="relative py-10 bg-white shadow rounded"
+            data-path="0.0.0.2.0"
+          >
+            <img
+              className="h-40 absolute inset-0 mt-2 mx-auto"
+              src="atis-assets/elements/thumb-up.svg"
+              alt=""
+              data-config-id="auto-img-3"
+              data-path="0.0.0.2.0.0"
+            />
+            <h4
+              className="mb-2 text-green-600"
+              data-config-id="desc3"
+              data-path="0.0.0.2.0.1"
+            >
+              Conversations
+            </h4>
+            <span
+              className="text-3xl lg:text-4xl font-bold"
+              data-config-id="value3"
+              data-path="0.0.0.2.0.2"
+            >
+              643,533
+            </span>
+          </div>
+        </div>
+        <div className="mb-8 w-full lg:w-1/4 px-4" data-path="0.0.0.3">
+          <div
+            className="relative py-10 bg-white shadow rounded"
+            data-path="0.0.0.3.0"
+          >
+            <img
+              className="h-40 absolute inset-0 mt-2 mx-auto"
+              src="atis-assets/elements/terminal.svg"
+              alt=""
+              data-config-id="auto-img-4"
+              data-path="0.0.0.3.0.0"
+            />
+            <h4
+              className="mb-2 text-green-600"
+              data-config-id="desc4"
+              data-path="0.0.0.3.0.1"
+            >
+              Modal Sale Rate
+            </h4>
+            <span
+              className="text-3xl lg:text-4xl font-bold"
+              data-config-id="value4"
+              data-path="0.0.0.3.0.2"
+            >
+              25%
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    data-section-id={12}
+    data-share=""
+    data-category="teams-dark-color"
+    data-component-id="808accaf_02_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-900 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap items-center -mx-3" data-path="0.2.0.0">
+          <div
+            className="w-full lg:w-1/3 px-3 mb-8 lg:mb-0"
+            data-path="0.2.0.0.0"
+          >
+            <ul
+              className="flex flex-wrap flex-row lg:flex-col justify-center lg:justify-start space-x-6 lg:space-x-0"
+              data-path="0.2.0.0.0.0"
+            >
+              <li data-path="0.2.0.0.0.0.0">
+                <button
+                  className="text-2xl lg:text-4xl mb-4 text-gray-800 hover:text-white font-bold"
+                  data-config-id="name5"
+                  data-path="0.2.0.0.0.0.0.0"
+                >
+                  Danny Bailey
+                </button>
+              </li>
+              <li data-path="0.2.0.0.0.0.1">
+                <button
+                  className="text-2xl lg:text-4xl mb-4 text-gray-800 hover:text-white font-bold"
+                  data-config-id="name2"
+                  data-path="0.2.0.0.0.0.1.0"
+                >
+                  Ian Brown
+                </button>
+              </li>
+              <li data-path="0.2.0.0.0.0.2">
+                <button
+                  className="text-2xl lg:text-4xl mb-4 text-gray-800 hover:text-white font-bold"
+                  data-config-id="name3"
+                  data-path="0.2.0.0.0.0.2.0"
+                >
+                  Daisy Carter
+                </button>
+              </li>
+              <li data-path="0.2.0.0.0.0.3">
+                <button
+                  className="text-2xl lg:text-4xl mb-4 text-gray-800 hover:text-white font-bold"
+                  data-config-id="name4"
+                  data-path="0.2.0.0.0.0.3.0"
+                >
+                  Dennis Robertson
+                </button>
+              </li>
+              <li data-path="0.2.0.0.0.0.4">
+                <button
+                  className="text-2xl lg:text-4xl mb-4 text-white font-bold"
+                  data-config-id="name1"
+                  data-path="0.2.0.0.0.0.4.0"
+                >
+                  Alice Bradley
+                </button>
+              </li>
+              <li data-path="0.2.0.0.0.0.5">
+                <button
+                  className="text-2xl lg:text-4xl mb-4 text-gray-800 hover:text-white font-bold"
+                  data-config-id="name6"
+                  data-path="0.2.0.0.0.0.5.0"
+                >
+                  Sahra Ortiz
+                </button>
+              </li>
+            </ul>
+          </div>
+          <div className="w-full lg:w-2/3 px-3" data-path="0.2.0.0.1">
+            <div
+              className="flex p-6 flex-wrap bg-white rounded-lg"
+              data-path="0.2.0.0.1.0"
+            >
+              <div
+                className="w-full lg:w-1/2 lg:pr-3"
+                data-path="0.2.0.0.1.0.0"
+              >
+                <img
+                  className="h-80 lg:h-auto w-full lg:w-auto object-cover rounded-lg"
+                  src="https://images.unsplash.com/photo-1484588168347-9d835bb09939?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                  alt=""
+                  data-config-id="image1"
+                  data-path="0.2.0.0.1.0.0.0"
+                />
+              </div>
+              <div
+                className="w-full lg:w-1/2 lg:pl-3 lg:mt-6 order-first lg:order-last"
+                data-path="0.2.0.0.1.0.1"
+              >
+                <h4
+                  className="text-2xl font-bold font-heading"
+                  data-config-id="name1"
+                  data-path="0.2.0.0.1.0.1.0"
+                >
+                  Alice Bradley
+                </h4>
+                <p
+                  className="mb-6 text-gray-500"
+                  data-config-id="title1"
+                  data-path="0.2.0.0.1.0.1.1"
+                >
+                  Backend Developer
+                </p>
+                <p
+                  className="mb-6 text-gray-500 leading-loose"
+                  data-config-id="desc1"
+                  data-path="0.2.0.0.1.0.1.2"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+                  vitae felis at ante bibendum mollis et et mauris.
+                </p>
+                <p
+                  className="mb-6 text-gray-500 leading-loose"
+                  data-config-id="desc1-2"
+                  data-path="0.2.0.0.1.0.1.3"
+                >
+                  Quisque id sagittis turpis. Nulla sollicitudin rutrum eros eu
+                  dictum. Integer sit amet erat sit amet lectus lacinia mattis.
+                  Donec est tortor, fermentum at urna a, accumsan suscipit sem.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={13}
+    data-share=""
+    data-category="call-to-action-light-color"
+    data-component-id="db699602_01_awz"
+    className="skewed-top-left skewed-bottom-right"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-50 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="max-w-xl mx-auto text-center" data-path="0.2.0.0">
+          <a
+            className="mb-6 inline-block text-3xl font-bold leading-none"
+            href="#"
+            data-config-id="brand"
+            data-path="0.2.0.0.0"
+          >
+            <img
+              className="h-12"
+              src="atis-assets/logo/atis/atis-color-sign.svg"
+              alt=""
+              width="auto"
+              data-path="0.2.0.0.0.0"
+            />
+          </a>
+          <h2
+            className="mb-4 text-4xl lg:text-5xl font-bold font-heading"
+            data-config-id="header"
+            data-path="0.2.0.0.1"
+          >
+            So much more than a business analytics tool
+          </h2>
+          <p
+            className="max-w-md mx-auto mb-6 text-gray-500 leading-loose"
+            data-config-id="desc"
+            data-path="0.2.0.0.2"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Pellentesque efficitur nisl sodales egestas lobortis.
+          </p>
+          <a
+            className="inline-block py-2 px-6 bg-purple-600 hover:bg-purple-700 text-white font-bold leading-loose rounded-l-xl rounded-t-xl transition duration-200"
+            href="#"
+            data-config-id="primary-action"
+            data-path="0.2.0.0.3"
+          >
+            Get Started
+          </a>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={14}
+    data-share=""
+    data-category="contact-light-mono"
+    data-component-id="2b2f0e12_03_awz"
+    className="relative py-10 lg:h-screen bg-gray-50"
+    data-path={0}
+  >
+    <div
+      className="hidden lg:flex items-center absolute inset-0 w-2/5 bg-white"
+      data-path={0.0}
+    >
+      <img
+        className="mx-auto"
+        src="atis-assets/illustrations/technical-support-dark-green.png"
+        alt=""
+        data-config-id="image"
+        data-path="0.0.0"
+      />
+    </div>
+    <div
+      className="lg:absolute inset-0 flex justify-center items-center ml-auto w-full lg:w-3/5 bg-gray-50"
+      data-path="0.1"
+    >
+      <div className="container mx-auto px-4" data-path="0.1.0">
+        <div className="max-w-md mx-auto py-10" data-path="0.1.0.0">
+          <h3
+            className="mb-6 text-2xl"
+            data-config-id="header"
+            data-path="0.1.0.0.0"
+          >
+            Got any question? Let’s talk about it.
+          </h3>
+          <form action="" data-path="0.1.0.0.1">
+            <div className="mb-4 text-sm" data-path="0.1.0.0.1.0">
+              <span
+                className="mr-4 font-semibold"
+                data-config-id="label"
+                data-path="0.1.0.0.1.0.0"
+              >
+                Department:
+              </span>
+              <label className="mr-4" data-path="0.1.0.0.1.0.1">
+                <input
+                  className="mr-1"
+                  type="radio"
+                  name="department"
+                  defaultValue={1}
+                  defaultChecked=""
+                  data-path="0.1.0.0.1.0.1.0"
+                />
+                <span data-config-id="department1" data-path="0.1.0.0.1.0.1.1">
+                  Support
+                </span>
+              </label>
+              <label data-path="0.1.0.0.1.0.2">
+                <input
+                  className="mr-1"
+                  type="radio"
+                  name="department"
+                  defaultValue={2}
+                  data-path="0.1.0.0.1.0.2.0"
+                />
+                <span data-config-id="department2" data-path="0.1.0.0.1.0.2.1">
+                  Sales
+                </span>
+              </label>
+            </div>
+            <div className="mb-4" data-path="0.1.0.0.1.1">
+              <input
+                className="w-full p-4 text-xs font-semibold leading-none bg-white rounded outline-none"
+                type="text"
+                placeholder="Subject"
+                data-path="0.1.0.0.1.1.0"
+              />
+            </div>
+            <div className="mb-4" data-path="0.1.0.0.1.2">
+              <input
+                className="w-full p-4 text-xs font-semibold leading-none bg-white rounded outline-none"
+                type="text"
+                placeholder="Name"
+                data-path="0.1.0.0.1.2.0"
+              />
+            </div>
+            <div className="mb-4" data-path="0.1.0.0.1.3">
+              <input
+                className="w-full p-4 text-xs font-semibold leading-none bg-white rounded outline-none"
+                type="email"
+                placeholder="name@example.com"
+                data-path="0.1.0.0.1.3.0"
+              />
+            </div>
+            <div className="mb-4" data-path="0.1.0.0.1.4">
+              <textarea
+                className="w-full h-24 p-4 text-xs font-semibold leading-none resize-none bg-white rounded outline-none"
+                type="text"
+                placeholder="Message..."
+                data-path="0.1.0.0.1.4.0"
+                defaultValue={""}
+              />
+            </div>
+            <div className="mb-4" data-path="0.1.0.0.1.5">
+              <label
+                className="flex px-2 bg-white rounded"
+                data-path="0.1.0.0.1.5.0"
+              >
+                <input
+                  className="hidden"
+                  type="file"
+                  placeholder="Choose file.."
+                  name="Choose file"
+                  data-path="0.1.0.0.1.5.0.0"
+                />
+                <div
+                  className="my-1 ml-auto px-4 py-3 text-xs text-white font-semibold leading-none bg-gray-500 hover:bg-gray-600 rounded cursor-pointer transition duration-200"
+                  data-config-id="browse"
+                  data-path="0.1.0.0.1.5.0.1"
+                >
+                  Browse
+                </div>
+              </label>
+            </div>
+            <div
+              className="flex justify-between items-center"
+              data-path="0.1.0.0.1.6"
+            >
+              <label data-path="0.1.0.0.1.6.0">
+                <input
+                  className="mr-1"
+                  type="checkbox"
+                  name="terms"
+                  defaultValue={1}
+                  data-path="0.1.0.0.1.6.0.0"
+                />
+                <span
+                  className="text-sm font-semibold"
+                  data-config-id="terms"
+                  data-path="0.1.0.0.1.6.0.1"
+                >
+                  I agree to terms and conditions.
+                </span>
+              </label>
+              <button
+                className="inline-block py-2 px-6 rounded-l-xl rounded-t-xl bg-green-600 hover:bg-green-700 text-gray-50 font-bold leading-loose transition duration-200"
+                data-config-id="primary-action"
+                data-path="0.1.0.0.1.6.1"
+              >
+                Get Started
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section
+    data-section-id={15}
+    data-share=""
+    data-category="faq-light-mono"
+    data-component-id="446ae7da_02_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-50 radius-for-skewed" data-path="0.2">
+      <div className="border-b" data-path="0.2.0">
+        <div
+          className="mb-16 max-w-xl mx-auto px-4 text-center"
+          data-path="0.2.0.0"
+        >
+          <span
+            className="text-green-600 font-bold"
+            data-config-id="caption"
+            data-path="0.2.0.0.0"
+          >
+            Dolor sit amet consectutar
+          </span>
+          <h2
+            className="text-4xl lg:text-5xl font-bold font-heading"
+            data-config-id="header"
+            data-path="0.2.0.0.1"
+          >
+            Frequently Asked Questions
+          </h2>
+        </div>
+        <div className="max-w-3xl mx-auto" data-path="0.2.0.1">
+          <div
+            className="flex flex-wrap px-4 text-center lg:-mx-4 lg:space-x-4 text-base lg:text-xl"
+            data-path="0.2.0.1.0"
+          >
+            <button
+              className="px-4 py-4 w-full md:w-1/2 lg:w-auto font-bold text-green-600 border-b-2 border-green-600"
+              data-config-id="cat1"
+              data-path="0.2.0.1.0.0"
+            >
+              General
+            </button>
+            <button
+              className="px-4 py-4 w-full md:w-1/2 lg:w-auto font-bold text-gray-400 hover:text-green-600 border-b-2 border-transparent hover:border-green-600 transition duration-150"
+              data-config-id="cat2"
+              data-path="0.2.0.1.0.1"
+            >
+              Payments
+            </button>
+            <button
+              className="px-4 py-4 w-full md:w-1/2 lg:w-auto font-bold text-gray-400 hover:text-green-600 border-b-2 border-transparent hover:border-green-600 transition duration-150"
+              data-config-id="cat3"
+              data-path="0.2.0.1.0.2"
+            >
+              Returns
+            </button>
+            <button
+              className="px-4 py-4 w-full md:w-1/2 lg:w-auto font-bold text-gray-400 hover:text-green-600 border-b-2 border-transparent hover:border-green-600 transition duration-150"
+              data-config-id="cat4"
+              data-path="0.2.0.1.0.3"
+            >
+              Refunds
+            </button>
+          </div>
+        </div>
+      </div>
+      <div className="container mx-auto px-4" data-path="0.2.1">
+        <div className="max-w-3xl mx-auto" data-path="0.2.1.0">
+          <ul data-path="0.2.1.0.0">
+            <li className="py-12 pr-4 border-b" data-path="0.2.1.0.0.0">
+              <button
+                className="w-full flex justify-between items-center text-left font-bold font-heading hover:text-gray-600"
+                data-path="0.2.1.0.0.0.0"
+              >
+                <span
+                  className="text-xl"
+                  data-config-id="q1"
+                  data-path="0.2.1.0.0.0.0.0"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit?
+                </span>
+                <svg
+                  className="w-4 h-4 text-green-600"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-1-2"
+                  data-path="0.2.1.0.0.0.0.1"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M5 10l7-7m0 0l7 7m-7-7v18"
+                    data-path="0.2.1.0.0.0.0.1.0"
                   />
                 </svg>
               </button>
-              <div className="hs-dropdown-menu transition-[opacity,margin] duration-[0.1ms] sm:duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 sm:w-48 hidden z-10 sm:mt-2 bg-white sm:shadow-md rounded-lg p-2 dark:bg-gray-800 sm:dark:border dark:border-gray-700 dark:divide-gray-700 before:absolute sm:border before:-right-5 before:top-0 before:h-full before:w-5 top-0 right-full !mx-[10px]">
-                <a
-                  className="flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-                  href="#"
+              <p
+                className="mt-4 pr-4 text-gray-400 font-normal leading-loose"
+                data-config-id="a1"
+                data-path="0.2.1.0.0.0.1"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                euismod orci sed tristique placerat. Fusce in ligula urna. Fusce
+                eget nunc et libero accumsan rutrum quis nec lectus. Quisque
+                luctus sem nibh, quis ornare neque consectetur varius. Maecenas
+                rhoncus consectetur rutrum.
+              </p>
+            </li>
+            <li className="py-6 lg:py-12 pr-4 border-b" data-path="0.2.1.0.0.1">
+              <button
+                className="w-full flex justify-between items-center text-left font-bold font-heading hover:text-gray-600"
+                data-path="0.2.1.0.0.1.0"
+              >
+                <span
+                  className="text-xl"
+                  data-config-id="q2"
+                  data-path="0.2.1.0.0.1.0.0"
                 >
-                  About
+                  Nunc maximus odio sit amet eros faucibus?
+                </span>
+                <svg
+                  className="w-4 h-4 text-green-600"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-2-2"
+                  data-path="0.2.1.0.0.1.0.1"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 14l-7 7m0 0l-7-7m7 7V3"
+                    data-path="0.2.1.0.0.1.0.1.0"
+                  />
+                </svg>
+              </button>
+              <p
+                className="hidden mt-4 pr-4 text-gray-400 font-normal leading-loose"
+                data-config-id="a2"
+                data-path="0.2.1.0.0.1.1"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                quis ultricies est. Duis nec hendrerit magna. Ut vel orci
+                gravida, hendrerit enim non, gravida turpis. Praesent non lectus
+                porttitor, scelerisque nulla nec, ornare neque. Integer massa
+                libero, ornare ut leo nec, scelerisque rutrum elit. Morbi et
+                massa id ipsum lobortis rhoncus. Aenean sit amet porta nulla,
+                quis varius risus. Suspendisse ultrices ut lectus non laoreet.
+                Etiam ornare laoreet tortor quis porttitor. Suspendisse tempus
+                erat non dui volutpat eleifend.
+              </p>
+            </li>
+            <li className="py-6 lg:py-12 pr-4 border-b" data-path="0.2.1.0.0.2">
+              <button
+                className="w-full flex justify-between items-center text-left font-bold font-heading hover:text-gray-600"
+                data-path="0.2.1.0.0.2.0"
+              >
+                <span
+                  className="text-xl"
+                  data-config-id="q3"
+                  data-path="0.2.1.0.0.2.0.0"
+                >
+                  Nunc maximus odio sit amet eros faucibus?
+                </span>
+                <svg
+                  className="w-4 h-4 text-green-600"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-3-2"
+                  data-path="0.2.1.0.0.2.0.1"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 14l-7 7m0 0l-7-7m7 7V3"
+                    data-path="0.2.1.0.0.2.0.1.0"
+                  />
+                </svg>
+              </button>
+              <p
+                className="hidden mt-4 pr-4 text-gray-400 font-normal leading-loose"
+                data-config-id="a3"
+                data-path="0.2.1.0.0.2.1"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                quis ultricies est. Duis nec hendrerit magna. Ut vel orci
+                gravida, hendrerit enim non, gravida turpis. Praesent non lectus
+                porttitor, scelerisque nulla nec, ornare neque. Integer massa
+                libero, ornare ut leo nec, scelerisque rutrum elit. Morbi et
+                massa id ipsum lobortis rhoncus. Aenean sit amet porta nulla,
+                quis varius risus. Suspendisse ultrices ut lectus non laoreet.
+                Etiam ornare laoreet tortor quis porttitor. Suspendisse tempus
+                erat non dui volutpat eleifend.
+              </p>
+            </li>
+            <li className="py-6 lg:py-12 pr-4 border-b" data-path="0.2.1.0.0.3">
+              <button
+                className="w-full flex justify-between items-center text-left font-bold font-heading hover:text-gray-600"
+                data-path="0.2.1.0.0.3.0"
+              >
+                <span
+                  className="text-xl"
+                  data-config-id="q4"
+                  data-path="0.2.1.0.0.3.0.0"
+                >
+                  Nunc maximus odio sit amet eros faucibus?
+                </span>
+                <svg
+                  className="w-4 h-4 text-green-600"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-4-2"
+                  data-path="0.2.1.0.0.3.0.1"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 14l-7 7m0 0l-7-7m7 7V3"
+                    data-path="0.2.1.0.0.3.0.1.0"
+                  />
+                </svg>
+              </button>
+              <p
+                className="hidden mt-4 pr-4 text-gray-400 font-normal leading-loose"
+                data-config-id="a4"
+                data-path="0.2.1.0.0.3.1"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                quis ultricies est. Duis nec hendrerit magna. Ut vel orci
+                gravida, hendrerit enim non, gravida turpis. Praesent non lectus
+                porttitor, scelerisque nulla nec, ornare neque. Integer massa
+                libero, ornare ut leo nec, scelerisque rutrum elit. Morbi et
+                massa id ipsum lobortis rhoncus. Aenean sit amet porta nulla,
+                quis varius risus. Suspendisse ultrices ut lectus non laoreet.
+                Etiam ornare laoreet tortor quis porttitor. Suspendisse tempus
+                erat non dui volutpat eleifend.
+              </p>
+            </li>
+            <li className="py-6 lg:py-12 pr-4 border-b" data-path="0.2.1.0.0.4">
+              <button
+                className="w-full flex justify-between items-center text-left font-bold font-heading hover:text-gray-600"
+                data-path="0.2.1.0.0.4.0"
+              >
+                <span
+                  className="text-xl"
+                  data-config-id="q5"
+                  data-path="0.2.1.0.0.4.0.0"
+                >
+                  Nunc maximus odio sit amet eros faucibus?
+                </span>
+                <svg
+                  className="w-4 h-4 text-green-600"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-5-2"
+                  data-path="0.2.1.0.0.4.0.1"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 14l-7 7m0 0l-7-7m7 7V3"
+                    data-path="0.2.1.0.0.4.0.1.0"
+                  />
+                </svg>
+              </button>
+              <p
+                className="hidden mt-4 pr-4 text-gray-400 font-normal leading-loose"
+                data-config-id="a5"
+                data-path="0.2.1.0.0.4.1"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                quis ultricies est. Duis nec hendrerit magna. Ut vel orci
+                gravida, hendrerit enim non, gravida turpis. Praesent non lectus
+                porttitor, scelerisque nulla nec, ornare neque. Integer massa
+                libero, ornare ut leo nec, scelerisque rutrum elit. Morbi et
+                massa id ipsum lobortis rhoncus. Aenean sit amet porta nulla,
+                quis varius risus. Suspendisse ultrices ut lectus non laoreet.
+                Etiam ornare laoreet tortor quis porttitor. Suspendisse tempus
+                erat non dui volutpat eleifend.
+              </p>
+            </li>
+            <li className="py-6 lg:py-12 pr-4 border-b" data-path="0.2.1.0.0.5">
+              <button
+                className="w-full flex justify-between items-center text-left font-bold font-heading hover:text-gray-600"
+                data-path="0.2.1.0.0.5.0"
+              >
+                <span
+                  className="text-xl"
+                  data-config-id="q6"
+                  data-path="0.2.1.0.0.5.0.0"
+                >
+                  Nunc maximus odio sit amet eros faucibus?
+                </span>
+                <svg
+                  className="w-4 h-4 text-green-600"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  data-config-id="auto-svg-6-2"
+                  data-path="0.2.1.0.0.5.0.1"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 14l-7 7m0 0l-7-7m7 7V3"
+                    data-path="0.2.1.0.0.5.0.1.0"
+                  />
+                </svg>
+              </button>
+              <p
+                className="hidden mt-4 pr-4 text-gray-400 font-normal leading-loose"
+                data-config-id="a6"
+                data-path="0.2.1.0.0.5.1"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                quis ultricies est. Duis nec hendrerit magna. Ut vel orci
+                gravida, hendrerit enim non, gravida turpis. Praesent non lectus
+                porttitor, scelerisque nulla nec, ornare neque. Integer massa
+                libero, ornare ut leo nec, scelerisque rutrum elit. Morbi et
+                massa id ipsum lobortis rhoncus. Aenean sit amet porta nulla,
+                quis varius risus. Suspendisse ultrices ut lectus non laoreet.
+                Etiam ornare laoreet tortor quis porttitor. Suspendisse tempus
+                erat non dui volutpat eleifend.
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={16}
+    data-share=""
+    data-category="applications-light-mono"
+    data-component-id="43229a9f_03_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-50 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap items-center -mx-4" data-path="0.2.0.0">
+          <div
+            className="mb-12 lg:mb-0 w-full lg:w-1/2 px-4"
+            data-path="0.2.0.0.0"
+          >
+            <div className="max-w-md" data-path="0.2.0.0.0.0">
+              <span
+                className="text-green-600 font-bold"
+                data-config-id="caption"
+                data-path="0.2.0.0.0.0.0"
+              >
+                Dolor sit amet consectutar
+              </span>
+              <h2
+                className="text-4xl lg:text-5xl font-bold font-heading"
+                data-config-id="header"
+                data-path="0.2.0.0.0.0.1"
+              >
+                Build &amp; Launch without problems
+              </h2>
+              <p
+                className="mb-6 text-gray-500 leading-loose"
+                data-config-id="desc"
+                data-path="0.2.0.0.0.0.2"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Pellentesque efficitur nisl sodales egestas lobortis.
+              </p>
+              <ul
+                className="mb-8 text-gray-500 font-bold"
+                data-path="0.2.0.0.0.0.3"
+              >
+                <li
+                  className="mb-3 flex items-center"
+                  data-path="0.2.0.0.0.0.3.0"
+                >
+                  <svg
+                    className="w-5 h-5 mr-2 text-green-500"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-1-3"
+                    data-path="0.2.0.0.0.0.3.0.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.0.0.3.0.0.0"
+                    />
+                  </svg>
+                  <span data-config-id="feature1" data-path="0.2.0.0.0.0.3.0.1">
+                    Vestibulum viverra ante non libero
+                  </span>
+                </li>
+                <li
+                  className="mb-3 flex items-center"
+                  data-path="0.2.0.0.0.0.3.1"
+                >
+                  <svg
+                    className="w-5 h-5 mr-2 text-green-500"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-2-3"
+                    data-path="0.2.0.0.0.0.3.1.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.0.0.3.1.0.0"
+                    />
+                  </svg>
+                  <span data-config-id="feature2" data-path="0.2.0.0.0.0.3.1.1">
+                    Morbi mollis metus pretium ultrices tincidunt
+                  </span>
+                </li>
+                <li
+                  className="mb-3 flex items-center"
+                  data-path="0.2.0.0.0.0.3.2"
+                >
+                  <svg
+                    className="w-5 h-5 mr-2 text-green-500"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-3-3"
+                    data-path="0.2.0.0.0.0.3.2.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.0.0.3.2.0.0"
+                    />
+                  </svg>
+                  <span data-config-id="feature3" data-path="0.2.0.0.0.0.3.2.1">
+                    Etiam lectus nunc, commodo et risus in
+                  </span>
+                </li>
+              </ul>
+              <div data-path="0.2.0.0.0.0.4">
+                <a href="#" data-path="0.2.0.0.0.0.4.0">
+                  <img
+                    className="mb-2 mr-6 inline-block"
+                    src="atis-assets/logo/brands/google-play-store.png"
+                    alt=""
+                    data-config-id="auto-img-1"
+                    data-path="0.2.0.0.0.0.4.0.0"
+                  />
                 </a>
-                <a
-                  className="flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-                  href="#"
-                >
-                  Downloads
-                </a>
-                <a
-                  className="flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-                  href="#"
-                >
-                  Team Account
+                <a href="#" data-path="0.2.0.0.0.0.4.1">
+                  <img
+                    className="mb-2 inline-block"
+                    src="atis-assets/logo/brands/app-store-download.png"
+                    alt=""
+                    data-config-id="auto-img-2"
+                    data-path="0.2.0.0.0.0.4.1.0"
+                  />
                 </a>
               </div>
             </div>
-            <a
-              className="flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-              href="#"
+          </div>
+          <div
+            className="transform -rotate-12 flex items-center w-full lg:w-1/2 px-4"
+            data-path="0.2.0.0.1"
+          >
+            <div className="w-1/3" data-path="0.2.0.0.1.0">
+              <img
+                src="atis-assets/illustrations/book-detail-full.png"
+                alt=""
+                data-config-id="03_image1"
+                data-path="0.2.0.0.1.0.0"
+              />
+            </div>
+            <div className="w-1/3" data-path="0.2.0.0.1.1">
+              <img
+                src="atis-assets/illustrations/login-full.png"
+                alt=""
+                data-config-id="03_image2"
+                data-path="0.2.0.0.1.1.0"
+              />
+              <img
+                src="atis-assets/illustrations/details-full.png"
+                alt=""
+                data-config-id="03_image3"
+                data-path="0.2.0.0.1.1.1"
+              />
+            </div>
+            <div className="w-1/3" data-path="0.2.0.0.1.2">
+              <img
+                src="atis-assets/illustrations/home.png"
+                alt=""
+                data-config-id="03_image4"
+                data-path="0.2.0.0.1.2.0"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={17}
+    data-share=""
+    data-category="portfolio-flat-mono"
+    data-component-id="23b32c09_03_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-green-600 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div
+          className="mb-8 md:mb-16 max-w-lg mx-auto text-center"
+          data-path="0.2.0.0"
+        >
+          <span
+            className="text-green-400 font-bold"
+            data-config-id="caption"
+            data-path="0.2.0.0.0"
+          >
+            Dolor sit amet consectutar
+          </span>
+          <h2
+            className="mb-6 text-4xl lg:text-5xl font-bold font-heading text-white"
+            data-config-id="header"
+            data-path="0.2.0.0.1"
+          >
+            Latest Projects
+          </h2>
+          <div
+            className="inline-flex flex-wrap py-1 sm:px-1 sm:space-x-1 bg-green-500 rounded text-sm"
+            data-path="0.2.0.0.2"
+          >
+            <button
+              className="w-full sm:w-auto mb-1 sm:mb-0 mx-1 sm:mx-0 py-2 px-4 hover:bg-white text-white hover:text-gray-900 rounded hover:shadow-md font-bold focus:outline-none transition duration-200"
+              data-config-id="cat1"
+              data-path="0.2.0.0.2.0"
             >
-              Downloads
-            </a>
-            <a
-              className="flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-              href="#"
+              Category 1
+            </button>
+            <button
+              className="w-full sm:w-auto mb-1 sm:mb-0 mx-1 sm:mx-0 py-2 px-4 bg-white shadow-md rounded font-bold focus:outline-none transition duration-200"
+              data-config-id="cat2"
+              data-path="0.2.0.0.2.1"
             >
-              Team Account
+              Category 2
+            </button>
+            <button
+              className="w-full sm:w-auto mb-1 sm:mb-0 mx-1 sm:mx-0 py-2 px-4 hover:bg-white text-white hover:text-gray-900 rounded hover:shadow-md font-bold focus:outline-none transition duration-200"
+              data-config-id="cat3"
+              data-path="0.2.0.0.2.2"
+            >
+              Category 3
+            </button>
+            <button
+              className="w-full sm:w-auto mb-1 sm:mb-0 mx-1 sm:mx-0 py-2 px-4 hover:bg-white text-white hover:text-gray-900 rounded hover:shadow-md font-bold focus:outline-none transition duration-200"
+              data-config-id="cat4"
+              data-path="0.2.0.0.2.3"
+            >
+              Category 4
+            </button>
+          </div>
+        </div>
+        <div className="flex flex-wrap -mx-4 mb-12" data-path="0.2.0.1">
+          <div
+            className="flex flex-wrap w-full lg:w-1/2 mb-8 lg:mb-0"
+            data-path="0.2.0.1.0"
+          >
+            <div className="w-full lg:w-1/2 px-4 mb-8" data-path="0.2.0.1.0.0">
+              <img
+                className="h-64 w-full rounded-lg object-cover"
+                src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
+                alt=""
+                data-config-id="image1"
+                data-path="0.2.0.1.0.0.0"
+              />
+            </div>
+            <div className="w-full lg:w-1/2 px-4 mb-8" data-path="0.2.0.1.0.1">
+              <img
+                className="h-64 w-full rounded-lg object-cover"
+                src="https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80"
+                alt=""
+                data-config-id="image2"
+                data-path="0.2.0.1.0.1.0"
+              />
+            </div>
+            <div className="w-full px-4" data-path="0.2.0.1.0.2">
+              <img
+                className="h-64 lg:h-128 w-full rounded-lg object-cover"
+                src="https://images.unsplash.com/photo-1476610182048-b716b8518aae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1127&q=80"
+                alt=""
+                data-config-id="image3"
+                data-path="0.2.0.1.0.2.0"
+              />
+            </div>
+          </div>
+          <div className="flex flex-wrap w-full lg:w-1/2" data-path="0.2.0.1.1">
+            <div className="w-full px-4 mb-8" data-path="0.2.0.1.1.0">
+              <div className="relative" data-path="0.2.0.1.1.0.0">
+                <img
+                  className="h-128 w-full rounded-lg object-cover"
+                  src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
+                  alt=""
+                  data-config-id="image4"
+                  data-path="0.2.0.1.1.0.0.0"
+                />
+                <div
+                  className="absolute inset-0 bg-gray-900 opacity-80 rounded-lg"
+                  data-path="0.2.0.1.1.0.0.1"
+                />
+                <div
+                  className="absolute inset-0 p-6 flex justify-center"
+                  data-path="0.2.0.1.1.0.0.2"
+                >
+                  <div
+                    className="max-w-md my-auto"
+                    data-path="0.2.0.1.1.0.0.2.0"
+                  >
+                    <span
+                      className="text-green-600 font-bold"
+                      data-config-id="image-caption"
+                      data-path="0.2.0.1.1.0.0.2.0.0"
+                    >
+                      Dolor sit amet consectutar
+                    </span>
+                    <h2
+                      className="text-4xl lg:text-5xl text-white font-bold"
+                      data-config-id="image-header"
+                      data-path="0.2.0.1.1.0.0.2.0.1"
+                    >
+                      Build &amp; Launch without problems
+                    </h2>
+                    <div className="max-w-xs" data-path="0.2.0.1.1.0.0.2.0.2">
+                      <p
+                        className="mb-6 text-gray-400"
+                        data-config-id="image-desc"
+                        data-path="0.2.0.1.1.0.0.2.0.2.0"
+                      >
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Pellentesque efficitur nisl sodales egestas lobortis.
+                      </p>
+                      <a
+                        className="inline-block py-2 px-6 rounded-l-xl rounded-t-xl bg-green-600 hover:bg-green-700 text-gray-50 font-bold leading-loose"
+                        href="#"
+                        data-config-id="image-action"
+                        data-path="0.2.0.1.1.0.0.2.0.2.1"
+                      >
+                        See More
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="w-full lg:w-1/2 px-4 mb-8 lg:mb-0"
+              data-path="0.2.0.1.1.1"
+            >
+              <img
+                className="h-64 w-full rounded-lg object-cover"
+                src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
+                alt=""
+                data-config-id="image5"
+                data-path="0.2.0.1.1.1.0"
+              />
+            </div>
+            <div className="w-full lg:w-1/2 px-4" data-path="0.2.0.1.1.2">
+              <img
+                className="h-64 w-full rounded-lg object-cover"
+                src="https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80"
+                alt=""
+                data-config-id="image6"
+                data-path="0.2.0.1.1.2.0"
+              />
+            </div>
+          </div>
+        </div>
+        <div className="text-center" data-path="0.2.0.2">
+          <a
+            className="inline-block py-2 px-6 rounded-l-xl rounded-t-xl bg-white hover:bg-gray-50 font-bold leading-loose transition duration-200"
+            href="#"
+            data-config-id="primary-action"
+            data-path="0.2.0.2.0"
+          >
+            View More Projects
+          </a>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-green-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={18}
+    data-share=""
+    data-category="blog-light-mono"
+    data-component-id="fe79f9d8_13_awz"
+    className="py-20"
+    data-path={0}
+  >
+    <div className="container mx-auto px-4" data-path={0.0}>
+      <div
+        className="py-20 mb-12 rounded-lg"
+        style={{
+          backgroundImage:
+            'url("https://images.unsplash.com/photo-1473773508845-188df298d2d1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=967&q=80")',
+          backgroundRepeat: "no-repeat",
+          backgroundSize: "cover"
+        }}
+        data-config-id="image1"
+        data-path="0.0.0"
+      >
+        <div className="max-w-2xl mx-auto text-center" data-path="0.0.0.0">
+          <a
+            className="uppercase text-base lg:text-xl text-green-500 hover:text-green-400 hover:underline"
+            href="#"
+            data-config-id="cat1"
+            data-path="0.0.0.0.0"
+          >
+            Travel
+          </a>
+          <span
+            className="text-base lg:text-xl text-white"
+            data-config-id="date1"
+            data-path="0.0.0.0.1"
+          >
+            24 Jan, 2021
+          </span>
+          <div className="mt-2" data-path="0.0.0.0.2">
+            <h2
+              className="mb-6 text-4xl lg:text-5xl text-white font-bold"
+              data-config-id="title1"
+              data-path="0.0.0.0.2.0"
+            >
+              Curabitur vestibulum odio maximus ipsum
+            </h2>
+            <div className="flex justify-center" data-path="0.0.0.0.2.1">
+              <div className="mr-4" data-path="0.0.0.0.2.1.0">
+                <img
+                  className="w-12 h-12 object-cover object-top rounded-full"
+                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+                  alt=""
+                  data-config-id="avatar1"
+                  data-path="0.0.0.0.2.1.0.0"
+                />
+              </div>
+              <div className="text-left" data-path="0.0.0.0.2.1.1">
+                <a href="#" data-path="0.0.0.0.2.1.1.0">
+                  <h3
+                    className="text-white hover:underline font-bold"
+                    data-config-id="name1"
+                    data-path="0.0.0.0.2.1.1.0.0"
+                  >
+                    Alice Bradley
+                  </h3>
+                </a>
+                <a href="#" data-path="0.0.0.0.2.1.1.1">
+                  <span
+                    className="text-xs text-green-600 font-bold"
+                    data-config-id="role1"
+                    data-path="0.0.0.0.2.1.1.1.0"
+                  >
+                    Author
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="max-w-2xl mx-auto" data-path="0.0.1">
+        <p
+          className="mb-6 leading-loose text-gray-500"
+          data-config-id="desc1"
+          data-path="0.0.1.0"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
+          commodo est eget consequat imperdiet. Suspendisse laoreet scelerisque
+          lobortis. Mauris facilisis hendrerit nulla at vehicula. Suspendisse
+          potenti. Ut in nulla a purus bibendum convallis. Suspendisse id nunc
+          maximus, suscipit ante ac, vulputate massa. Sed ut nunc suscipit,
+          bibendum arcu a, interdum elit. Nullam laoreet mollis dictum. Ut
+          suscipit, magna at elementum iaculis, erat erat fermentum justo, sit
+          amet ultrices enim leo sit amet purus. Nulla sed erat molestie, auctor
+          mauris lobortis, iaculis justo.
+        </p>
+        <p
+          className="leading-loose text-gray-500"
+          data-config-id="desc2"
+          data-path="0.0.1.1"
+        >
+          Duis hendrerit dui in dui ornare luctus. Nullam gravida tincidunt
+          lorem cursus suscipit. Integer scelerisque sem et sem porta, eu
+          volutpat mi tempor. Duis interdum sodales lacus non tempor. Nam
+          mattis, sapien a commodo ultrices, nunc orci tincidunt ante, tempus
+          tempus turpis metus laoreet lacus. Praesent condimentum, arcu ut
+          fringilla tincidunt, augue diam pretium augue, sit amet vestibulum
+          nunc felis vel metus. Duis dolor nulla, pellentesque non ultrices ut,
+          convallis eu felis. Duis luctus tempor arcu, vitae elementum massa
+          porta non. Morbi aliquet, neque ut volutpat sodales, dui enim
+          facilisis enim, ut dictum lacus neque in urna. Nam metus elit,
+          ullamcorper pretium nisi at, aliquet gravida lectus. Nullam id lectus
+          pellentesque, suscipit dolor eget, consequat velit. Pellentesque
+          finibus commodo nisl, id interdum leo. Maecenas aliquam felis justo,
+          ut sagittis nunc maximus ut.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    data-section-id={19}
+    data-share=""
+    data-category="newsletter-dark-color"
+    data-component-id="6ecdb16e_02_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-900 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap items-center" data-path="0.2.0.0">
+          <div
+            className="mb-4 w-full lg:w-auto lg:mr-8 text-center"
+            data-path="0.2.0.0.0"
+          >
+            <div
+              className="flex justify-center items-center p-5 mx-auto w-16 h-16 bg-gray-800 rounded"
+              data-path="0.2.0.0.0.0"
+            >
+              <img
+                className="h-12"
+                src="atis-assets/logo/atis/atis-color-sign.svg"
+                alt=""
+                data-config-id="icon"
+                data-path="0.2.0.0.0.0.0"
+              />
+            </div>
+          </div>
+          <div
+            className="mb-6 w-full lg:w-auto max-w-lg mx-auto lg:ml-0 mr-auto text-center lg:text-left"
+            data-path="0.2.0.0.1"
+          >
+            <h2
+              className="text-white text-4xl font-bold font-heading"
+              data-config-id="header"
+              data-path="0.2.0.0.1.0"
+            >
+              Stay updated with our tool
+            </h2>
+            <p
+              className="text-gray-500"
+              data-config-id="desc"
+              data-path="0.2.0.0.1.1"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            </p>
+          </div>
+          <div className="w-full lg:w-2/5" data-path="0.2.0.0.2">
+            <form action="" data-path="0.2.0.0.2.0">
+              <div
+                className="max-w-md lg:max-w-sm mx-auto flex flex-wrap items-center"
+                data-path="0.2.0.0.2.0.0"
+              >
+                <input
+                  className="flex-grow py-3 px-4 mr-4 text-xs rounded leading-loose"
+                  type="email"
+                  placeholder="example@shuffle.dev"
+                  data-path="0.2.0.0.2.0.0.0"
+                />
+                <button
+                  className="flex-none py-2 px-6 rounded-t-xl rounded-l-xl bg-pink-600 hover:bg-pink-700 text-white font-bold leading-loose transition duration-200"
+                  data-config-id="primary-action"
+                  data-path="0.2.0.0.2.0.0.1"
+                >
+                  Sign Up
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-900"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={20}
+    data-share=""
+    data-category="logo-clouds-light-color"
+    data-component-id="61098559_01_awz"
+    className="py-20"
+    data-path={0}
+  >
+    <div className="container mx-auto px-4" data-path={0.0}>
+      <div className="flex flex-wrap -mx-2" data-path="0.0.0">
+        <div className="mb-4 w-full md:w-1/2 lg:w-1/4 px-2" data-path="0.0.0.0">
+          <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.0.0">
+            <a href="#" data-path="0.0.0.0.0.0">
+              <img
+                className="mx-auto h-8"
+                src="atis-assets/logo/brands/slack.png"
+                alt=""
+                data-config-id="image1"
+                data-path="0.0.0.0.0.0.0"
+              />
             </a>
           </div>
         </div>
-        <a
-          className="flex items-center gap-x-2 font-medium text-gray-500 hover:text-blue-600 sm:border-l sm:border-gray-300 sm:my-6 sm:pl-6 dark:border-gray-700 dark:text-gray-400 dark:hover:text-blue-500"
-          href="#"
-        >
-          <svg
-            className="w-4 h-4"
-            xmlns="http://www.w3.org/2000/svg"
-            width={16}
-            height={16}
-            fill="currentColor"
-            viewBox="0 0 16 16"
-          >
-            <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z" />
-          </svg>
-          Log in
-        </a>
+        <div className="mb-4 w-full md:w-1/2 lg:w-1/4 px-2" data-path="0.0.0.1">
+          <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.1.0">
+            <a href="#" data-path="0.0.0.1.0.0">
+              <img
+                className="mx-auto h-8"
+                src="atis-assets/logo/brands/dropbox.png"
+                alt=""
+                data-config-id="image2"
+                data-path="0.0.0.1.0.0.0"
+              />
+            </a>
+          </div>
+        </div>
+        <div className="mb-4 w-full md:w-1/2 lg:w-1/4 px-2" data-path="0.0.0.2">
+          <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.2.0">
+            <a href="#" data-path="0.0.0.2.0.0">
+              <img
+                className="mx-auto h-8"
+                src="atis-assets/logo/brands/spotify.png"
+                alt=""
+                data-config-id="image3"
+                data-path="0.0.0.2.0.0.0"
+              />
+            </a>
+          </div>
+        </div>
+        <div className="w-full md:w-1/2 lg:w-1/4 px-2" data-path="0.0.0.3">
+          <div className="py-16 bg-gray-50 rounded" data-path="0.0.0.3.0">
+            <a href="#" data-path="0.0.0.3.0.0">
+              <img
+                className="mx-auto h-8"
+                src="atis-assets/logo/brands/stripe.png"
+                alt=""
+                data-config-id="image4"
+                data-path="0.0.0.3.0.0.0"
+              />
+            </a>
+          </div>
+        </div>
       </div>
     </div>
-  </nav>
-</header>
-
-  {/* Hero */}
-  <div className="bg-white dark:bg-gray-900  mx-auto px-4 sm:px-6 lg:px-8">
-    {/* Grid */}
-    <div className="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
-      <div>
-        <h1 className="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white ">
-          Start your journey with <span className="text-blue-600">Greathill</span>
-        </h1>
-        <p className="mt-3 text-lg text-gray-800 dark:text-gray-400">
-          Hand-picked professionals and expertly crafted components, designed
-          for any kind of entrepreneur.
-        </p>
-        {/* Buttons */}
-        <div className="mt-7 grid gap-3 w-full sm:inline-flex">
-          <a
-            className="inline-flex justify-center items-center gap-x-3 text-center bg-blue-600 hover:bg-blue-700 border border-transparent text-sm lg:text-base text-white font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-3 px-4 dark:focus:ring-offset-gray-800"
-            href="#"
+  </section>
+  <section
+    data-section-id={21}
+    data-share=""
+    data-category="testimonials-flat-color"
+    data-component-id="493cef1c_03_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-purple-600 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="max-w-6xl mx-auto" data-path="0.2.0.0">
+          <div
+            className="mb-8 p-6 flex flex-wrap items-center bg-white rounded-lg shadow"
+            data-path="0.2.0.0.0"
           >
-            Get started
+            <div className="w-full lg:w-1/3" data-path="0.2.0.0.0.0">
+              <img
+                className="mb-5 lg:mb-0 w-full rounded-lg object-cover"
+                style={{ maxHeight: 350 }}
+                src="https://images.unsplash.com/photo-1484588168347-9d835bb09939?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+                alt=""
+                data-config-id="image"
+                data-path="0.2.0.0.0.0.0"
+              />
+            </div>
+            <div className="w-full lg:w-2/3" data-path="0.2.0.0.0.1">
+              <div className="max-w-lg mx-auto" data-path="0.2.0.0.0.1.0">
+                <p
+                  className="mb-8 text-2xl text-gray-500"
+                  data-config-id="desc"
+                  data-path="0.2.0.0.0.1.0.0"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Pellentesque et placerat metus. Morbi aliquet felis sit amet
+                  erat finibus, ac condimentum ligula ornare.
+                </p>
+                <div
+                  className="flex items-center justify-between"
+                  data-path="0.2.0.0.0.1.0.1"
+                >
+                  <div data-path="0.2.0.0.0.1.0.1.0">
+                    <h4
+                      className="text-2xl font-bold font-heading"
+                      data-config-id="name"
+                      data-path="0.2.0.0.0.1.0.1.0.0"
+                    >
+                      Alice Bradley
+                    </h4>
+                    <p
+                      className="text-gray-500"
+                      data-config-id="job"
+                      data-path="0.2.0.0.0.1.0.1.0.1"
+                    >
+                      Backend Developer
+                    </p>
+                  </div>
+                  <a href="#" data-path="0.2.0.0.0.1.0.1.1">
+                    <img
+                      className="h-6"
+                      src="atis-assets/social/facebook-name.png"
+                      alt=""
+                      data-config-id="company"
+                      data-path="0.2.0.0.0.1.0.1.1.0"
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="max-w-md mx-auto text-center" data-path="0.2.0.0.1">
+            <button
+              className="mr-1 bg-purple-500 rounded-full p-1"
+              data-path="0.2.0.0.1.0"
+            />
+            <button
+              className="mr-1 bg-purple-500 rounded-full p-1"
+              data-path="0.2.0.0.1.1"
+            />
+            <button
+              className="mr-1 bg-white rounded-full p-1"
+              data-path="0.2.0.0.1.2"
+            />
+            <button
+              className="bg-purple-500 rounded-full p-1"
+              data-path="0.2.0.0.1.3"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={22}
+    data-share=""
+    data-category="pricing-flat-color"
+    data-component-id="7a480156_05_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-purple-600 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div
+          className="mb-16 max-w-2xl mx-auto text-center"
+          data-path="0.2.0.0"
+        >
+          <div className="max-w-lg mx-auto" data-path="0.2.0.0.0">
+            <span
+              className="text-pink-400 font-bold"
+              data-config-id="badge"
+              data-path="0.2.0.0.0.0"
+            >
+              Dolor sit amet consectutar
+            </span>
+            <h2
+              className="mb-2 text-4xl lg:text-5xl font-bold font-heading text-white"
+              data-config-id="header"
+              data-path="0.2.0.0.0.1"
+            >
+              All the tools you need in one workspace.
+            </h2>
+            <p
+              className="mb-8 text-gray-100"
+              data-config-id="desc"
+              data-path="0.2.0.0.0.2"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            </p>
+          </div>
+          <div className="flex flex-wrap justify-center" data-path="0.2.0.0.1">
+            <label
+              className="md:mr-4 w-full sm:w-auto flex items-center mr-8 mb-2"
+              data-path="0.2.0.0.1.0"
+            >
+              <input
+                type="radio"
+                name="billing"
+                defaultValue={1}
+                data-path="0.2.0.0.1.0.0"
+              />
+              <span
+                className="mx-2 font-semibold text-white"
+                data-config-id="05_billing1"
+                data-path="0.2.0.0.1.0.1"
+              >
+                Monthly Billing
+              </span>
+              <span
+                className="inline-flex items-center justify-center w-12 h-10 bg-pink-400 text-white font-semibold rounded-lg"
+                data-config-id="05_price1"
+                data-path="0.2.0.0.1.0.2"
+              >
+                $59
+              </span>
+            </label>
+            <label
+              className="flex w-full sm:w-auto items-center mb-2"
+              data-path="0.2.0.0.1.1"
+            >
+              <input
+                type="radio"
+                name="billing"
+                defaultValue={2}
+                data-path="0.2.0.0.1.1.0"
+              />
+              <span
+                className="mx-2 font-semibold text-white"
+                data-config-id="05_billing2"
+                data-path="0.2.0.0.1.1.1"
+              >
+                Annual Billing
+              </span>
+              <span
+                className="inline-flex items-center justify-center w-12 h-10 bg-pink-400 text-white font-semibold rounded-lg"
+                data-config-id="05_price2"
+                data-path="0.2.0.0.1.1.2"
+              >
+                $99
+              </span>
+            </label>
+          </div>
+        </div>
+        <div
+          className="flex flex-wrap bg-white rounded shadow"
+          data-path="0.2.0.1"
+        >
+          <div className="w-full md:w-1/2 mb-8 md:mb-0" data-path="0.2.0.1.0">
+            <div
+              className="px-6 py-8 lg:px-8 text-center"
+              data-path="0.2.0.1.0.0"
+            >
+              <span
+                className="text-gray-400"
+                data-config-id="caption"
+                data-path="0.2.0.1.0.0.0"
+              >
+                Sign In
+              </span>
+              <h4
+                className="mb-8 text-2xl font-heading"
+                data-config-id="form-header"
+                data-path="0.2.0.1.0.0.1"
+              >
+                Finish your payment
+              </h4>
+              <form className="mb-4" action="" data-path="0.2.0.1.0.0.2">
+                <div
+                  className="flex mb-4 px-4 bg-gray-50 rounded"
+                  data-path="0.2.0.1.0.0.2.0"
+                >
+                  <input
+                    className="w-full py-4 text-xs placeholder-gray-400 font-semibold leading-none bg-gray-50 focus:outline-none"
+                    type="email"
+                    placeholder="pat@shuffle.com"
+                    data-path="0.2.0.1.0.0.2.0.0"
+                  />
+                  <svg
+                    className="h-6 w-6 ml-4 my-auto text-gray-300"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    data-config-id="auto-svg-1-5"
+                    data-path="0.2.0.1.0.0.2.0.1"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
+                      data-path="0.2.0.1.0.0.2.0.1.0"
+                    />
+                  </svg>
+                </div>
+                <div
+                  className="flex mb-6 px-4 bg-gray-50 rounded"
+                  data-path="0.2.0.1.0.0.2.1"
+                >
+                  <input
+                    className="w-full py-4 text-xs placeholder-gray-400 font-semibold leading-none bg-gray-50 focus:outline-none"
+                    type="password"
+                    placeholder="Enter your password"
+                    data-path="0.2.0.1.0.0.2.1.0"
+                  />
+                  <button className="ml-4" data-path="0.2.0.1.0.0.2.1.1">
+                    <svg
+                      className="h-6 w-6 my-auto text-gray-300"
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      data-config-id="auto-svg-2-5"
+                      data-path="0.2.0.1.0.0.2.1.1.0"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+                        data-path="0.2.0.1.0.0.2.1.1.0.0"
+                      />
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
+                        data-path="0.2.0.1.0.0.2.1.1.0.1"
+                      />
+                    </svg>
+                  </button>
+                </div>
+                <div
+                  className="text-left mb-5 text-sm text-gray-400"
+                  data-path="0.2.0.1.0.0.2.2"
+                >
+                  <label className="flex" data-path="0.2.0.1.0.0.2.2.0">
+                    <input
+                      type="checkbox"
+                      name="terms"
+                      defaultValue={1}
+                      data-path="0.2.0.1.0.0.2.2.0.0"
+                    />
+                    <span
+                      className="ml-1 text-xs"
+                      data-config-id="terms"
+                      data-path="0.2.0.1.0.0.2.2.0.1"
+                    >
+                      By signing up, you agree to our{" "}
+                      <a
+                        className="text-purple-600 font-bold hover:text-purple-700"
+                        href="#"
+                        data-path="0.2.0.1.0.0.2.2.0.1.0"
+                      >
+                        Terms,
+                      </a>
+                      <a
+                        className="text-purple-600 font-bold hover:text-purple-700"
+                        href="#"
+                        data-path="0.2.0.1.0.0.2.2.0.1.1"
+                      >
+                        Data Policy
+                      </a>{" "}
+                      and{" "}
+                      <a
+                        className="text-purple-600 font-bold hover:text-purple-700"
+                        href="#"
+                        data-path="0.2.0.1.0.0.2.2.0.1.2"
+                      >
+                        Cookies Policy.
+                      </a>
+                    </span>
+                  </label>
+                </div>
+                <button
+                  className="block w-full p-4 text-center text-white font-bold leading-none bg-pink-600 hover:bg-pink-700 rounded-l-xl rounded-t-xl transition duration-200"
+                  data-config-id="primary-action"
+                  data-path="0.2.0.1.0.0.2.3"
+                >
+                  Buy Monthly Supply
+                </button>
+              </form>
+              <p
+                className="text-xs text-gray-400 text-xs"
+                data-config-id="secondary-action"
+                data-path="0.2.0.1.0.0.3"
+              >
+                Already have an account?{" "}
+                <a
+                  className="text-purple-600 hover:underline"
+                  href="#"
+                  data-path="0.2.0.1.0.0.3.0"
+                >
+                  Sign In
+                </a>
+              </p>
+            </div>
+          </div>
+          <div
+            className="py-10 w-full md:w-1/2 bg-gray-900 lg:rounded-r overflow-hidden flex flex-col"
+            data-path="0.2.0.1.1"
+          >
+            <img
+              className="w-full md:max-w-xs mx-auto my-auto"
+              src="atis-assets/illustrations/men-on-chair-purple-dark.png"
+              alt=""
+              data-config-id="image"
+              data-path="0.2.0.1.1.0"
+            />
+            <h3
+              className="mb-4 max-w-sm mx-auto text-center text-xl text-white"
+              data-config-id="title"
+              data-path="0.2.0.1.1.1"
+            >
+              Best for
+              <span className="font-bold" data-path="0.2.0.1.1.1.0">
+                freelance developers
+              </span>
+              who need to save their time.
+            </h3>
+            <div className="text-center" data-path="0.2.0.1.1.2">
+              <button
+                className="inline-block mr-2 w-2 h-2 bg-purple-400 rounded-full"
+                data-path="0.2.0.1.1.2.0"
+              />
+              <button
+                className="inline-block mr-2 w-2 h-2 bg-purple-400 rounded-full"
+                data-path="0.2.0.1.1.2.1"
+              />
+              <button
+                className="inline-block mr-2 w-2 h-2 bg-white rounded-full"
+                data-path="0.2.0.1.1.2.2"
+              />
+              <button
+                className="inline-block w-2 h-2 bg-purple-400 rounded-full"
+                data-path="0.2.0.1.1.2.3"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-purple-600"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={23}
+    data-share=""
+    data-category="features-light-color"
+    data-component-id="ef15d1da_02_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-50 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap items-center" data-path="0.2.0.0">
+          <div className="w-full lg:w-1/2 mb-12 lg:mb-0" data-path="0.2.0.0.0">
+            <div className="max-w-md lg:mx-auto" data-path="0.2.0.0.0.0">
+              <span
+                className="text-purple-600 font-bold"
+                data-config-id="badge"
+                data-path="0.2.0.0.0.0.0"
+              >
+                Dolor sit amet consectutar
+              </span>
+              <h2
+                className="my-2 text-4xl lg:text-5xl font-bold font-heading"
+                data-config-id="header"
+                data-path="0.2.0.0.0.0.1"
+              >
+                Build &amp; Launch without problems
+              </h2>
+              <p
+                className="mb-6 text-gray-500 leading-loose"
+                data-config-id="desc"
+                data-path="0.2.0.0.0.0.2"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Pellentesque efficitur nisl sodales egestas lobortis.
+              </p>
+              <ul className="text-gray-500 font-bold" data-path="0.2.0.0.0.0.3">
+                <li className="flex mb-4" data-path="0.2.0.0.0.0.3.0">
+                  <svg
+                    className="mr-2 w-6 h-6 text-green-400"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-1-2"
+                    data-path="0.2.0.0.0.0.3.0.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.0.0.3.0.0.0"
+                    />
+                  </svg>
+                  <span data-config-id="item1" data-path="0.2.0.0.0.0.3.0.1">
+                    Vestibulum viverra ante non libero
+                  </span>
+                </li>
+                <li className="flex mb-4" data-path="0.2.0.0.0.0.3.1">
+                  <svg
+                    className="mr-2 w-6 h-6 text-green-400"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-2-2"
+                    data-path="0.2.0.0.0.0.3.1.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.0.0.3.1.0.0"
+                    />
+                  </svg>
+                  <span data-config-id="item2" data-path="0.2.0.0.0.0.3.1.1">
+                    Morbi mollis metus pretium ultrices tincidunt
+                  </span>
+                </li>
+                <li className="flex mb-4" data-path="0.2.0.0.0.0.3.2">
+                  <svg
+                    className="mr-2 w-6 h-6 text-green-400"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-3-2"
+                    data-path="0.2.0.0.0.0.3.2.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.0.0.3.2.0.0"
+                    />
+                  </svg>
+                  <span data-config-id="item3" data-path="0.2.0.0.0.0.3.2.1">
+                    Etiam lectus nunc, commodo et risus in
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div
+            className="w-full lg:w-1/2 flex flex-wrap -mx-4"
+            data-path="0.2.0.0.1"
+          >
+            <div
+              className="mb-8 lg:mb-0 w-full md:w-1/2 px-4"
+              data-path="0.2.0.0.1.0"
+            >
+              <div
+                className="mb-8 py-6 pl-6 pr-4 shadow rounded bg-white"
+                data-path="0.2.0.0.1.0.0"
+              >
+                <span
+                  className="mb-4 inline-block p-3 rounded-lg bg-yellow-100"
+                  data-path="0.2.0.0.1.0.0.0"
+                >
+                  <svg
+                    className="w-10 h-10 text-yellow-600"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    data-config-id="auto-svg-4-2"
+                    data-path="0.2.0.0.1.0.0.0.0"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                      data-path="0.2.0.0.1.0.0.0.0.0"
+                    />
+                  </svg>
+                </span>
+                <h4
+                  className="mb-2 text-2xl font-bold font-heading"
+                  data-config-id="header1"
+                  data-path="0.2.0.0.1.0.0.1"
+                >
+                  Lorem ipsum dolor sit amet
+                </h4>
+                <p
+                  className="text-gray-500 leading-loose"
+                  data-config-id="desc1"
+                  data-path="0.2.0.0.1.0.0.2"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
+              </div>
+              <div
+                className="py-6 pl-6 pr-4 shadow rounded bg-white"
+                data-path="0.2.0.0.1.0.1"
+              >
+                <span
+                  className="mb-4 inline-block p-3 rounded-lg bg-pink-100"
+                  data-path="0.2.0.0.1.0.1.0"
+                >
+                  <svg
+                    className="w-10 h-10 text-pink-600"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-5-2"
+                    data-path="0.2.0.0.1.0.1.0.0"
+                  >
+                    <path
+                      d="M3 1a1 1 0 000 2h1.22l.305 1.222a.997.997 0 00.01.042l1.358 5.43-.893.892C3.74 11.846 4.632 14 6.414 14H15a1 1 0 000-2H6.414l1-1H14a1 1 0 00.894-.553l3-6A1 1 0 0017 3H6.28l-.31-1.243A1 1 0 005 1H3zM16 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM6.5 18a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"
+                      data-path="0.2.0.0.1.0.1.0.0.0"
+                    />
+                  </svg>
+                </span>
+                <h4
+                  className="mb-2 text-2xl font-bold font-heading"
+                  data-config-id="header2"
+                  data-path="0.2.0.0.1.0.1.1"
+                >
+                  Lorem ipsum dolor sit amet
+                </h4>
+                <p
+                  className="text-gray-500 leading-loose"
+                  data-config-id="desc2"
+                  data-path="0.2.0.0.1.0.1.2"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
+              </div>
+            </div>
+            <div
+              className="w-full md:w-1/2 lg:mt-20 px-4"
+              data-path="0.2.0.0.1.1"
+            >
+              <div
+                className="mb-8 py-6 pl-6 pr-4 shadow rounded-lg bg-white"
+                data-path="0.2.0.0.1.1.0"
+              >
+                <span
+                  className="mb-4 inline-block p-3 rounded bg-blue-100"
+                  data-path="0.2.0.0.1.1.0.0"
+                >
+                  <svg
+                    className="w-10 h-10 text-blue-600"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    data-config-id="auto-svg-6-2"
+                    data-path="0.2.0.0.1.1.0.0.0"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M16 4v12l-4-2-4 2V4M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                      data-path="0.2.0.0.1.1.0.0.0.0"
+                    />
+                  </svg>
+                </span>
+                <h4
+                  className="mb-2 text-2xl font-bold font-heading"
+                  data-config-id="header3"
+                  data-path="0.2.0.0.1.1.0.1"
+                >
+                  Lorem ipsum dolor sit amet
+                </h4>
+                <p
+                  className="text-gray-500 leading-loose"
+                  data-config-id="desc3"
+                  data-path="0.2.0.0.1.1.0.2"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
+              </div>
+              <div
+                className="py-6 pl-6 pr-4 shadow rounded-lg bg-white"
+                data-path="0.2.0.0.1.1.1"
+              >
+                <span
+                  className="mb-4 inline-block p-3 rounded bg-purple-100"
+                  data-path="0.2.0.0.1.1.1.0"
+                >
+                  <svg
+                    className="w-10 h-10 text-purple-600"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                    data-config-id="auto-svg-7-2"
+                    data-path="0.2.0.0.1.1.1.0.0"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M6 6V5a3 3 0 013-3h2a3 3 0 013 3v1h2a2 2 0 012 2v3.57A22.952 22.952 0 0110 13a22.95 22.95 0 01-8-1.43V8a2 2 0 012-2h2zm2-1a1 1 0 011-1h2a1 1 0 011 1v1H8V5zm1 5a1 1 0 011-1h.01a1 1 0 110 2H10a1 1 0 01-1-1z"
+                      clipRule="evenodd"
+                      data-path="0.2.0.0.1.1.1.0.0.0"
+                    />
+                    <path
+                      d="M2 13.692V16a2 2 0 002 2h12a2 2 0 002-2v-2.308A24.974 24.974 0 0110 15c-2.796 0-5.487-.46-8-1.308z"
+                      data-path="0.2.0.0.1.1.1.0.0.1"
+                    />
+                  </svg>
+                </span>
+                <h4
+                  className="mb-2 text-2xl font-bold font-heading"
+                  data-config-id="header4"
+                  data-path="0.2.0.0.1.1.1.1"
+                >
+                  Lorem ipsum dolor sit amet
+                </h4>
+                <p
+                  className="text-gray-500 leading-loose"
+                  data-config-id="desc4"
+                  data-path="0.2.0.0.1.1.1.2"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={24}
+    data-share=""
+    data-category="footer-light-color"
+    data-component-id="c8bc6eaf_03_awz"
+    data-config-id="background"
+    data-path={0}
+  >
+    <div className="skew skew-top mr-for-radius" data-path={0.0}>
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.0.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 10 0 10"
+          data-path="0.0.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-top ml-for-radius" data-path="0.1">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.1.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 10 10 0 10 10"
+          data-path="0.1.0.0"
+        />
+      </svg>
+    </div>
+    <div className="py-20 bg-gray-50 radius-for-skewed" data-path="0.2">
+      <div className="container mx-auto px-4" data-path="0.2.0">
+        <div className="flex flex-wrap" data-path="0.2.0.0">
+          <div className="w-full lg:w-1/3 mb-16 lg:mb-0" data-path="0.2.0.0.0">
+            <a
+              className="inline-block mb-3 text-3xl font-bold leading-none"
+              href="#"
+              data-config-id="brand"
+              data-path="0.2.0.0.0.0"
+            >
+              <img
+                className="mb-3 h-12"
+                src="atis-assets/logo/atis/atis-color-black.svg"
+                alt=""
+                width="auto"
+                data-path="0.2.0.0.0.0.0"
+              />
+            </a>
+            <p
+              className="mb-4 max-w-sm text-gray-400 leading-loose"
+              data-config-id="desc"
+              data-path="0.2.0.0.0.1"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+              tincidunt felis eu est.
+            </p>
+            <div data-path="0.2.0.0.0.2">
+              <a
+                className="inline-block w-10 mr-2 p-2 bg-gray-50 hover:bg-gray-100 rounded"
+                href="#"
+                data-path="0.2.0.0.0.2.0"
+              >
+                <img
+                  className="mx-auto"
+                  src="atis-assets/social/facebook-purple.svg"
+                  data-config-id="auto-img-1"
+                  data-path="0.2.0.0.0.2.0.0"
+                />
+              </a>
+              <a
+                className="inline-block w-10 mr-2 p-2 bg-gray-50 hover:bg-gray-100 rounded"
+                href="#"
+                data-path="0.2.0.0.0.2.1"
+              >
+                <img
+                  className="mx-auto"
+                  src="atis-assets/social/twitter-purple.svg"
+                  data-config-id="auto-img-2"
+                  data-path="0.2.0.0.0.2.1.0"
+                />
+              </a>
+              <a
+                className="inline-block w-10 p-2 bg-gray-50 hover:bg-gray-100 rounded"
+                href="#"
+                data-path="0.2.0.0.0.2.2"
+              >
+                <img
+                  className="mx-auto"
+                  src="atis-assets/social/instagram-purple.svg"
+                  data-config-id="auto-img-3"
+                  data-path="0.2.0.0.0.2.2.0"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="w-full lg:w-2/3 lg:pl-16 flex flex-wrap justify-between"
+            data-path="0.2.0.0.1"
+          >
+            <div
+              className="w-full md:w-1/3 lg:w-auto mb-16 md:mb-0"
+              data-path="0.2.0.0.1.0"
+            >
+              <h3
+                className="mb-6 text-2xl font-bold text-purple-600"
+                data-config-id="03_header1"
+                data-path="0.2.0.0.1.0.0"
+              >
+                Products
+              </h3>
+              <ul data-path="0.2.0.0.1.0.1">
+                <li className="mb-4" data-path="0.2.0.0.1.0.1.0">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link1-1"
+                    data-path="0.2.0.0.1.0.1.0.0"
+                  >
+                    Services
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.0.1.1">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link1-2"
+                    data-path="0.2.0.0.1.0.1.1.0"
+                  >
+                    About Us
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.0.1.2">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link1-3"
+                    data-path="0.2.0.0.1.0.1.2.0"
+                  >
+                    News and Stories
+                  </a>
+                </li>
+                <li data-path="0.2.0.0.1.0.1.3">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link1-4"
+                    data-path="0.2.0.0.1.0.1.3.0"
+                  >
+                    Roadmap
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              className="w-full md:w-1/3 lg:w-auto mb-16 md:mb-0"
+              data-path="0.2.0.0.1.1"
+            >
+              <h3
+                className="mb-6 text-2xl font-bold text-purple-600"
+                data-config-id="03_header2"
+                data-path="0.2.0.0.1.1.0"
+              >
+                Important Links
+              </h3>
+              <ul data-path="0.2.0.0.1.1.1">
+                <li className="mb-4" data-path="0.2.0.0.1.1.1.0">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link2-1"
+                    data-path="0.2.0.0.1.1.1.0.0"
+                  >
+                    Organization Team
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.1.1.1">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link2-2"
+                    data-path="0.2.0.0.1.1.1.1.0"
+                  >
+                    Our Journeys
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.1.1.2">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link2-3"
+                    data-path="0.2.0.0.1.1.1.2.0"
+                  >
+                    Pricing Plans
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.1.1.3">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link2-4"
+                    data-path="0.2.0.0.1.1.1.3.0"
+                  >
+                    Roadmap
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.1.1.4">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link2-5"
+                    data-path="0.2.0.0.1.1.1.4.0"
+                  >
+                    Terms &amp; Conditions
+                  </a>
+                </li>
+                <li data-path="0.2.0.0.1.1.1.5">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link2-6"
+                    data-path="0.2.0.0.1.1.1.5.0"
+                  >
+                    Privacy Policy
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="w-full md:w-1/3 lg:w-auto" data-path="0.2.0.0.1.2">
+              <h3
+                className="mb-6 text-2xl font-bold text-purple-600"
+                data-config-id="03_header3"
+                data-path="0.2.0.0.1.2.0"
+              >
+                Company
+              </h3>
+              <ul data-path="0.2.0.0.1.2.1">
+                <li className="mb-4" data-path="0.2.0.0.1.2.1.0">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link3-1"
+                    data-path="0.2.0.0.1.2.1.0.0"
+                  >
+                    About Us
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.2.1.1">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link3-2"
+                    data-path="0.2.0.0.1.2.1.1.0"
+                  >
+                    Jobs
+                  </a>
+                </li>
+                <li className="mb-4" data-path="0.2.0.0.1.2.1.2">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link3-3"
+                    data-path="0.2.0.0.1.2.1.2.0"
+                  >
+                    Press
+                  </a>
+                </li>
+                <li data-path="0.2.0.0.1.2.1.3">
+                  <a
+                    className="text-gray-800 hover:text-gray-600"
+                    href="#"
+                    data-config-id="link3-4"
+                    data-path="0.2.0.0.1.2.1.3.0"
+                  >
+                    Contact Us
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <p
+          className="lg:text-center text-sm text-gray-400 border-t border-gray-100 pt-12 mt-16"
+          data-config-id="copy"
+          data-path="0.2.0.1"
+        >
+          © 2021. All rights reserved.
+        </p>
+      </div>
+    </div>
+    <div className="skew skew-bottom mr-for-radius" data-path="0.3">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.3.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 0 10"
+          data-path="0.3.0.0"
+        />
+      </svg>
+    </div>
+    <div className="skew skew-bottom ml-for-radius" data-path="0.4">
+      <svg
+        className="h-8 md:h-12 lg:h-20 w-full text-gray-50"
+        viewBox="0 0 10 10"
+        preserveAspectRatio="none"
+        data-path="0.4.0"
+      >
+        <polygon
+          fill="currentColor"
+          points="0 0 10 0 10 10"
+          data-path="0.4.0.0"
+        />
+      </svg>
+    </div>
+  </section>
+  <section
+    data-section-id={25}
+    data-share=""
+    data-category="navigations-light-mono"
+    data-component-id="75280566_05_awz"
+    data-path={0}
+  >
+    <nav
+      className="relative px-6 py-6 bg-white"
+      data-config-id="toggle-mobile"
+      data-config-target=".navbar-menu"
+      data-config-class="hidden"
+      data-path={0.0}
+    >
+      <div className="flex items-center" data-path="0.0.0">
+        <ul
+          className="hidden lg:flex lg:flex lg:items-center lg:w-auto lg:space-x-5"
+          data-path="0.0.0.0"
+        >
+          <li data-path="0.0.0.0.0">
+            <a
+              className="text-sm text-gray-400 hover:text-gray-500"
+              href="#"
+              data-config-id="link1"
+              data-path="0.0.0.0.0.0"
+            >
+              Start
+            </a>
+          </li>
+          <li className="text-gray-300" data-path="0.0.0.0.1">
             <svg
-              className="w-2.5 h-2.5"
-              width={16}
-              height={16}
-              viewBox="0 0 16 16"
+              className="w-4 h-4 current-fill"
+              xmlns="http://www.w3.org/2000/svg"
               fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              data-config-id="auto-svg-1-5"
+              data-path="0.0.0.0.1.0"
             >
               <path
-                d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14"
-                stroke="currentColor"
-                strokeWidth={2}
                 strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z"
+                data-path="0.0.0.0.1.0.0"
               />
             </svg>
-          </a>
+          </li>
+          <li data-path="0.0.0.0.2">
+            <a
+              className="text-sm text-green-600 font-bold"
+              href="#"
+              data-config-id="link2"
+              data-path="0.0.0.0.2.0"
+            >
+              About Us
+            </a>
+          </li>
+          <li className="text-gray-300" data-path="0.0.0.0.3">
+            <svg
+              className="w-4 h-4 current-fill"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              data-config-id="auto-svg-2-5"
+              data-path="0.0.0.0.3.0"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z"
+                data-path="0.0.0.0.3.0.0"
+              />
+            </svg>
+          </li>
+          <li data-path="0.0.0.0.4">
+            <a
+              className="text-sm text-gray-400 hover:text-gray-500"
+              href="#"
+              data-config-id="link3"
+              data-path="0.0.0.0.4.0"
+            >
+              Services
+            </a>
+          </li>
+        </ul>
+        <div
+          className="lg:absolute lg:top-1/2 lg:left-1/2 lg:transform lg:-translate-y-1/2 lg:-translate-x-1/2"
+          data-path="0.0.0.1"
+        >
           <a
-            className="inline-flex justify-center items-center gap-x-3.5 text-sm lg:text-base text-center border hover:border-gray-300 shadow-sm font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-white transition py-3 px-4 dark:border-gray-800 dark:hover:border-gray-600 dark:shadow-slate-700/[.7] dark:text-white dark:focus:ring-gray-700 dark:focus:ring-offset-gray-800"
+            className="text-3xl font-bold leading-none"
             href="#"
+            data-config-id="brand"
+            data-path="0.0.0.1.0"
           >
-            Contact sales team
+            <img
+              className="h-12"
+              src="atis-assets/logo/atis/atis-mono-black.svg"
+              alt=""
+              width="auto"
+              data-path="0.0.0.1.0.0"
+            />
           </a>
         </div>
-        {/* End Buttons */}
-        {/* Review */}
-        <div className="mt-6 lg:mt-10 grid grid-cols-2 gap-x-5">
-          {/* Review */}
-          <div className="py-5">
-            <div className="flex space-x-1">
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-            </div>
-            <p className="mt-3 text-sm text-gray-800 dark:text-gray-200">
-              <span className="font-bold">4.6</span> /5 - from 12k reviews
-            </p>
-            <div className="mt-5">
-              {/* Star */}
-              <svg
-                className="h-auto w-16 text-gray-800 dark:text-white"
-                width={80}
-                height={27}
-                viewBox="0 0 80 27"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M20.558 9.74046H11.576V12.3752H17.9632C17.6438 16.0878 14.5301 17.7245 11.6159 17.7245C7.86341 17.7245 4.58995 14.7704 4.58995 10.6586C4.58995 6.62669 7.70373 3.51291 11.6159 3.51291C14.6498 3.51291 16.4063 5.42908 16.4063 5.42908L18.2426 3.51291C18.2426 3.51291 15.8474 0.878184 11.4961 0.878184C5.94724 0.838264 1.67578 5.50892 1.67578 10.5788C1.67578 15.5289 5.70772 20.3592 11.6558 20.3592C16.8854 20.3592 20.7177 16.8063 20.7177 11.4969C20.7177 10.3792 20.558 9.74046 20.558 9.74046Z"
-                  fill="currentColor"
-                />
-                <path
-                  d="M27.8621 7.78442C24.1894 7.78442 21.5547 10.6587 21.5547 14.012C21.5547 17.4451 24.1096 20.3593 27.9419 20.3593C31.415 20.3593 34.2094 17.7645 34.2094 14.0918C34.1695 9.94011 30.896 7.78442 27.8621 7.78442ZM27.902 10.2994C29.6984 10.2994 31.415 11.7764 31.415 14.0918C31.415 16.4072 29.7383 17.8842 27.902 17.8842C25.906 17.8842 24.3491 16.2874 24.3491 14.0519C24.3092 11.8962 25.8661 10.2994 27.902 10.2994Z"
-                  fill="currentColor"
-                />
-                <path
-                  d="M41.5964 7.78442C37.9238 7.78442 35.2891 10.6587 35.2891 14.012C35.2891 17.4451 37.844 20.3593 41.6763 20.3593C45.1493 20.3593 47.9438 17.7645 47.9438 14.0918C47.9038 9.94011 44.6304 7.78442 41.5964 7.78442ZM41.6364 10.2994C43.4328 10.2994 45.1493 11.7764 45.1493 14.0918C45.1493 16.4072 43.4727 17.8842 41.6364 17.8842C39.6404 17.8842 38.0835 16.2874 38.0835 14.0519C38.0436 11.8962 39.6004 10.2994 41.6364 10.2994Z"
-                  fill="currentColor"
-                />
-                <path
-                  d="M55.0475 7.82434C51.6543 7.82434 49.0195 10.7784 49.0195 14.0918C49.0195 17.8443 52.0934 20.3992 54.9676 20.3992C56.764 20.3992 57.6822 19.7205 58.4407 18.8822V20.1198C58.4407 22.2754 57.1233 23.5928 55.1273 23.5928C53.2111 23.5928 52.2531 22.1557 51.8938 21.3573L49.4587 22.3553C50.297 24.1517 52.0135 26.0279 55.0874 26.0279C58.4407 26.0279 60.9956 23.9122 60.9956 19.481V8.18362H58.3608V9.26147C57.6423 8.38322 56.5245 7.82434 55.0475 7.82434ZM55.287 10.2994C56.9237 10.2994 58.6403 11.7365 58.6403 14.1317C58.6403 16.6068 56.9636 17.9241 55.2471 17.9241C53.4507 17.9241 51.774 16.4471 51.774 14.1716C51.8139 11.6966 53.5305 10.2994 55.287 10.2994Z"
-                  fill="currentColor"
-                />
-                <path
-                  d="M72.8136 7.78442C69.62 7.78442 66.9453 10.2994 66.9453 14.0519C66.9453 18.004 69.9393 20.3593 73.093 20.3593C75.7278 20.3593 77.4044 18.8822 78.3625 17.6048L76.1669 16.1277C75.608 17.006 74.6499 17.8443 73.093 17.8443C71.3365 17.8443 70.5381 16.8862 70.0192 15.9281L78.4423 12.4152L78.0032 11.3772C77.1649 9.46107 75.2886 7.78442 72.8136 7.78442ZM72.8934 10.2196C74.0511 10.2196 74.8495 10.8184 75.2487 11.5768L69.6599 13.9321C69.3405 12.0958 71.097 10.2196 72.8934 10.2196Z"
-                  fill="currentColor"
-                />
-                <path
-                  d="M62.9531 19.9999H65.7076V1.47693H62.9531V19.9999Z"
-                  fill="currentColor"
-                />
-              </svg>
-              {/* End Star */}
-            </div>
-          </div>
-          {/* End Review */}
-          {/* Review */}
-          <div className="py-5">
-            <div className="flex space-x-1">
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z"
-                  fill="currentColor"
-                />
-              </svg>
-              <svg
-                className="h-4 w-4 text-gray-800 dark:text-gray-200"
-                width={51}
-                height={51}
-                viewBox="0 0 51 51"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M49.6867 20.0305C50.2889 19.3946 49.9878 18.1228 49.0846 18.1228L33.7306 15.8972C33.4296 15.8972 33.1285 15.8972 32.8275 15.2613L25.9032 0.317944C25.6021 0 25.3011 0 25 0V42.6046C25 42.6046 25.3011 42.6046 25.6021 42.6046L39.7518 49.9173C40.3539 50.2352 41.5581 49.5994 41.2571 48.6455L38.5476 32.4303C38.5476 32.1124 38.5476 31.7944 38.8486 31.4765L49.6867 20.0305Z"
-                  fill="transparent"
-                />
-                <path
-                  d="M0.313299 20.0305C-0.288914 19.3946 0.0122427 18.1228 0.915411 18.1228L16.2694 15.8972C16.5704 15.8972 16.8715 15.8972 17.1725 15.2613L24.0968 0.317944C24.3979 0 24.6989 0 25 0V42.6046C25 42.6046 24.6989 42.6046 24.3979 42.6046L10.2482 49.9173C9.64609 50.2352 8.44187 49.5994 8.74292 48.6455L11.4524 32.4303C11.4524 32.1124 11.4524 31.7944 11.1514 31.4765L0.313299 20.0305Z"
-                  fill="currentColor"
-                />
-              </svg>
-            </div>
-            <p className="mt-3 text-sm text-gray-800 dark:text-gray-200">
-              <span className="font-bold">4.8</span> /5 - from 5k reviews
-            </p>
-            <div className="mt-5">
-              {/* Star */}
-              <svg
-                className="h-auto w-16 text-gray-800 dark:text-white"
-                width={110}
-                height={28}
-                viewBox="0 0 110 28"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M66.6601 8.35107C64.8995 8.35107 63.5167 8.72875 62.1331 9.48265C62.1331 5.4582 62.1331 1.81143 62.2594 0.554199L53.8321 2.06273V2.81736L54.7124 2.94301C55.8433 3.19431 56.2224 3.82257 56.4715 5.33255C56.725 8.35107 56.5979 24.4496 56.4715 27.0912C58.7354 27.5945 61.1257 27.9722 63.5159 27.9722C70.1819 27.9722 74.2064 23.8213 74.2064 17.281C74.2064 12.1249 70.9366 8.35107 66.6601 8.35107ZM63.7672 26.5878C63.2639 26.5878 62.6342 26.5878 62.258 26.4629C62.1316 24.7023 62.0067 17.281 62.1316 10.7413C62.8862 10.4893 63.3888 10.3637 64.0185 10.3637C66.7872 10.3637 68.2965 13.6335 68.2965 17.6572C68.2957 22.6898 66.4088 26.5878 63.7672 26.5878ZM22.1363 1.0568H0V2.18838L1.25796 2.31403C2.89214 2.56533 3.52184 3.57127 3.77242 5.9608C4.15082 10.4886 4.02445 18.6646 3.77242 22.5619C3.52112 24.9522 2.89287 26.0845 1.25796 26.2087L0 26.4615V27.4674H14.2123V26.4615L12.703 26.2087C11.0681 26.0838 10.4392 24.9522 10.1879 22.5619C10.0615 20.9263 9.93583 18.2847 9.93583 15.0156L12.9543 15.1413C14.8413 15.1413 15.7208 16.6505 16.0985 18.7881H17.2308V9.86106H16.0985C15.7201 11.9993 14.8413 13.5078 12.9543 13.5078L9.93655 13.6342C9.93655 9.35773 10.0622 5.33328 10.1886 2.94374H14.59C17.9869 2.94374 19.7475 5.08125 21.0047 8.85513L22.2626 8.47745L22.1363 1.0568Z"
-                  fill="currentColor"
-                />
-                <path
-                  d="M29.3053 8.09998C35.5944 8.09998 38.7385 12.3764 38.7385 18.0358C38.7385 23.4439 35.2167 27.9731 28.9276 27.9731C22.6393 27.9731 19.4951 23.6959 19.4951 18.0358C19.4951 12.6277 23.0162 8.09998 29.3053 8.09998ZM28.9276 9.35793C26.1604 9.35793 25.4058 13.1311 25.4058 18.0358C25.4058 22.8149 26.6637 26.7137 29.1796 26.7137C32.0703 26.7137 32.8264 22.9405 32.8264 18.0358C32.8264 13.2567 31.5699 9.35793 28.9276 9.35793ZM75.8403 18.1622C75.8403 13.0054 79.1101 8.09998 85.5248 8.09998C90.8057 8.09998 93.3224 11.9995 93.3224 17.1555H81.6253C81.4989 21.8089 83.7628 25.2051 88.2913 25.2051C90.3038 25.2051 91.3098 24.7033 92.5685 23.8223L93.0703 24.4505C91.8124 26.2111 89.0459 27.9731 85.5248 27.9731C79.8647 27.9724 75.8403 23.9479 75.8403 18.1622ZM81.6253 15.7726L87.5366 15.6463C87.5366 13.1311 87.159 9.35793 85.0214 9.35793C82.8839 9.35793 81.7502 12.8791 81.6253 15.7726ZM108.291 9.10663C106.782 8.47693 104.77 8.09998 102.506 8.09998C97.8538 8.09998 94.9594 10.8665 94.9594 14.137C94.9594 17.4075 97.0955 18.7904 100.118 19.7971C103.261 20.9279 104.142 21.8089 104.142 23.3182C104.142 24.8275 103.01 26.2103 100.997 26.2103C98.6084 26.2103 96.8464 24.8275 95.4635 21.0536L94.5825 21.3063L94.7089 26.84C96.2181 27.4683 98.9846 27.9724 101.375 27.9724C106.28 27.9724 109.425 25.4557 109.425 21.5576C109.425 18.9161 108.041 17.4075 104.771 16.1489C101.249 14.766 99.992 13.8857 99.992 12.2501C99.992 10.6152 101.126 9.48286 102.635 9.48286C104.897 9.48286 106.407 10.8665 107.54 14.2627L108.42 14.0114L108.291 9.10663ZM55.0883 8.6033C52.9508 7.3468 49.1769 7.97433 47.1651 12.5028L47.29 8.1007L38.8642 9.73561V10.4902L39.7444 10.6159C40.8775 10.7423 41.3794 11.3705 41.5057 13.0062C41.757 16.0247 41.6314 21.3078 41.5057 23.9486C41.3794 25.4564 40.8775 26.2111 39.7444 26.3374L38.8642 26.4638V27.4697H50.5606V26.4638L49.0513 26.3374C47.7941 26.2111 47.4164 25.4564 47.29 23.9486C47.0387 21.5584 47.0387 16.7793 47.1651 13.7608C47.7933 12.8798 50.5606 12.1259 53.0757 13.7608L55.0883 8.6033Z"
-                  fill="currentColor"
-                />
-              </svg>
-              {/* End Star */}
-            </div>
-          </div>
-          {/* End Review */}
-        </div>
-        {/* End Review */}
-      </div>
-      {/* End Col */}
-      <div className="relative ml-4">
-        <img
-          className="w-full rounded-md"
-          src="https://images.unsplash.com/photo-1665686377065-08ba896d16fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&h=800&q=80"
-          alt="Image Description"
-        />
-        <div className="absolute inset-0 -z-[1] bg-gradient-to-tr from-gray-200 via-white/0 to-white/0 w-full h-full rounded-md mt-4 -mb-4 mr-4 -ml-4 lg:mt-6 lg:-mb-6 lg:mr-6 lg:-ml-6 dark:from-slate-800 dark:via-slate-900/0 dark:to-slate-900/0" />
-        {/* SVG*/}
-        <div className="absolute bottom-0 left-0">
-          <svg
-            className="w-2/3 ml-auto h-auto text-white dark:text-slate-900"
-            width={630}
-            height={451}
-            viewBox="0 0 630 451"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
+        <a
+          className="hidden lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 bg-gray-50 hover:bg-gray-100 text-sm text-gray-900 font-bold rounded-l-xl rounded-t-xl transition duration-200"
+          href="#"
+          data-config-id="secondary-action"
+          data-path="0.0.0.2"
+        >
+          Sign In
+        </a>
+        <a
+          className="hidden lg:inline-block py-2 px-6 bg-green-500 hover:bg-green-600 text-sm text-white font-bold rounded-l-xl rounded-t-xl transition duration-200"
+          href="#"
+          data-config-id="primary-action"
+          data-path="0.0.0.3"
+        >
+          Sign up
+        </a>
+        <div className="lg:hidden ml-auto" data-path="0.0.0.4">
+          <button
+            className="navbar-burger flex items-center text-green-600 p-3"
+            data-path="0.0.0.4.0"
           >
-            <rect x={531} y={352} width={99} height={99} fill="currentColor" />
-            <rect x={140} y={352} width={106} height={99} fill="currentColor" />
-            <rect x={482} y={402} width={64} height={49} fill="currentColor" />
-            <rect x={433} y={402} width={63} height={49} fill="currentColor" />
-            <rect x={384} y={352} width={49} height={50} fill="currentColor" />
-            <rect x={531} y={328} width={50} height={50} fill="currentColor" />
-            <rect x={99} y={303} width={49} height={58} fill="currentColor" />
-            <rect x={99} y={352} width={49} height={50} fill="currentColor" />
-            <rect x={99} y={392} width={49} height={59} fill="currentColor" />
-            <rect x={44} y={402} width={66} height={49} fill="currentColor" />
-            <rect x={234} y={402} width={62} height={49} fill="currentColor" />
-            <rect x={334} y={303} width={50} height={49} fill="currentColor" />
-            <rect x={581} width={49} height={49} fill="currentColor" />
-            <rect x={581} width={49} height={64} fill="currentColor" />
-            <rect x={482} y={123} width={49} height={49} fill="currentColor" />
-            <rect x={507} y={124} width={49} height={24} fill="currentColor" />
-            <rect x={531} y={49} width={99} height={99} fill="currentColor" />
-          </svg>
+            <svg
+              className="block h-4 w-4 fill-current"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+              data-config-id="auto-svg-3-5"
+              data-path="0.0.0.4.0.0"
+            >
+              <title data-path="0.0.0.4.0.0.0">Mobile menu</title>
+              <path
+                d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"
+                data-path="0.0.0.4.0.0.1"
+              />
+            </svg>
+          </button>
         </div>
-        {/* End SVG*/}
       </div>
-      {/* End Col */}
+    </nav>
+    <div
+      className="hidden navbar-menu fixed top-0 left-0 bottom-0 w-5/6 max-w-sm z-50"
+      data-config-id="toggle-mobile-2"
+      data-config-target=".navbar-menu"
+      data-config-class="hidden"
+      data-path="0.1"
+    >
+      <div
+        className="navbar-backdrop fixed inset-0 bg-gray-800 opacity-25"
+        data-path="0.1.0"
+      />
+      <nav
+        className="relative flex flex-col py-6 px-6 h-full w-full bg-white border-r overflow-y-auto"
+        data-path="0.1.1"
+      >
+        <div className="flex items-center mb-8" data-path="0.1.1.0">
+          <a
+            className="mr-auto text-3xl font-bold leading-none"
+            href="#"
+            data-config-id="brand"
+            data-path="0.1.1.0.0"
+          >
+            <img
+              className="h-10"
+              src="atis-assets/logo/atis/atis-mono-black.svg"
+              alt=""
+              width="auto"
+              data-path="0.1.1.0.0.0"
+            />
+          </a>
+          <button className="navbar-close" data-path="0.1.1.0.1">
+            <svg
+              className="h-6 w-6 text-gray-400 cursor-pointer hover:text-gray-500"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              data-config-id="auto-svg-4-5"
+              data-path="0.1.1.0.1.0"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M6 18L18 6M6 6l12 12"
+                data-path="0.1.1.0.1.0.0"
+              />
+            </svg>
+          </button>
+        </div>
+        <div data-path="0.1.1.1">
+          <ul data-path="0.1.1.1.0">
+            <li className="mb-1" data-path="0.1.1.1.0.0">
+              <a
+                className="block p-4 text-sm font-semibold text-gray-400 hover:bg-green-50 hover:text-green-600 rounded"
+                href="#"
+                data-config-id="link1"
+                data-path="0.1.1.1.0.0.0"
+              >
+                Start
+              </a>
+            </li>
+            <li className="mb-1" data-path="0.1.1.1.0.1">
+              <a
+                className="block p-4 text-sm font-semibold text-gray-400 hover:bg-green-50 hover:text-green-600 rounded"
+                href="#"
+                data-config-id="link2"
+                data-path="0.1.1.1.0.1.0"
+              >
+                About Us
+              </a>
+            </li>
+            <li className="mb-1" data-path="0.1.1.1.0.2">
+              <a
+                className="block p-4 text-sm font-semibold text-gray-400 hover:bg-green-50 hover:text-green-600 rounded"
+                href="#"
+                data-config-id="link3"
+                data-path="0.1.1.1.0.2.0"
+              >
+                Services
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div className="mt-auto" data-path="0.1.1.2">
+          <div className="pt-6" data-path="0.1.1.2.0">
+            <a
+              className="block px-4 py-3 mb-3 leading-loose text-xs text-center font-semibold leading-none bg-gray-50 hover:bg-gray-100 rounded-l-xl rounded-t-xl"
+              href="#"
+              data-config-id="secondary-action"
+              data-path="0.1.1.2.0.0"
+            >
+              Sign in
+            </a>
+            <a
+              className="block px-4 py-3 mb-2 leading-loose text-xs text-center text-white font-semibold bg-green-600 hover:bg-green-700 rounded-l-xl rounded-t-xl"
+              href="#"
+              data-config-id="primary-action"
+              data-path="0.1.1.2.0.1"
+            >
+              Sign Up
+            </a>
+          </div>
+          <p
+            className="my-4 text-xs text-center text-gray-400"
+            data-path="0.1.1.2.1"
+          >
+            <span data-config-id="copy" data-path="0.1.1.2.1.0">
+              © 2020 All rights reserved.
+            </span>
+          </p>
+          <div className="text-center" data-path="0.1.1.2.2">
+            <a className="inline-block px-1" href="#" data-path="0.1.1.2.2.0">
+              <img
+                src="atis-assets/social/facebook.svg"
+                alt=""
+                data-config-id="auto-img-1"
+                data-path="0.1.1.2.2.0.0"
+              />
+            </a>
+            <a className="inline-block px-1" href="#" data-path="0.1.1.2.2.1">
+              <img
+                src="atis-assets/social/twitter.svg"
+                alt=""
+                data-config-id="auto-img-2"
+                data-path="0.1.1.2.2.1.0"
+              />
+            </a>
+            <a className="inline-block px-1" href="#" data-path="0.1.1.2.2.2">
+              <img
+                src="atis-assets/social/instagram.svg"
+                alt=""
+                data-config-id="auto-img-3"
+                data-path="0.1.1.2.2.2.0"
+              />
+            </a>
+          </div>
+        </div>
+      </nav>
     </div>
-    {/* End Grid */}
-  </div>
-  {/* End Hero */}
-</>
+  </section>
+</div>
+
 
 
 
