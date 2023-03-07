@@ -15,12 +15,9 @@ export default function Second() {
         Explore our range of services and discover how we can help you unlock your business's full potential. From strategy and marketing to operations and beyond, our team of experts has the skills and experience to help you succeed. Let's work together to elevate your business and achieve success like never before.
         </p>
         <div className="inline-flex w-full mt-6 sm:w-auto">
-          <a
-           
-            className="btn inline-flex items-center justify-center w-full px-6 py-2 text-white duration-300 bg-blue-600 rounded-lg hover:bg-blue-500 focus:ring focus:ring-blue-300 focus:ring-opacity-80"
-          >
-               <Link to="/services"> See our services</Link>
-          </a>
+          
+               <Link className="btn inline-flex items-center justify-center w-full px-6 py-2 text-white duration-300 bg-blue-600 rounded-lg hover:bg-blue-500 focus:ring focus:ring-blue-300 focus:ring-opacity-80" to="/services"> See our services</Link>
+          
         </div>
       </div>
     </section>

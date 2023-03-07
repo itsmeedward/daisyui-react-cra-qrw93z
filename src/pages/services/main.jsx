@@ -82,7 +82,7 @@ export default function Services() {
           We specialize in delivering powerful, user-friendly web solutions that help businesses succeed. Discover how we can help you achieve your goals today!
           </p>
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-          <Link to="/Webservice">Discover</Link>
+          <Link to="/services/webservice">Discover</Link>
             <svg
               className="w-2.5 h-2.5"
               width={16}

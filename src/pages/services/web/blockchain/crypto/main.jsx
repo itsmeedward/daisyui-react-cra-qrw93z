@@ -34,7 +34,7 @@ export default function Crypto(){
   </div>
 </section>
 
-<section  className="py-10 bg-gray-200 " >
+<section  className="py-10 bg-slate-300 " >
   <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
     <div className="grid items-stretch grid-cols-1 lg:grid-cols-2 gap-x-16 gap-y-12 xl:gap-x-24">
       <div className="h-full pr-12 lg:order-2 lg:mb-40">

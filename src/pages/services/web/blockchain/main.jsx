@@ -34,7 +34,7 @@ export default function Blockchain(){
           </p>
           <div className="flex gap-6 items-center">
           <p className="mt-5 inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 group-hover:underline font-medium">
-          <Link to="/blockchain/crypto">Discover</Link>
+          <Link to="/services/webservice/blockchain/crypto">Discover</Link>
             <svg
               className="w-2.5 h-2.5"
               width={16}

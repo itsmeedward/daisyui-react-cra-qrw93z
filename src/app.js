@@ -13,6 +13,7 @@ import Test from './pages/main/test';
 import Webservice from './pages/services/web/main';
 import Blockchain from './pages/services/web/blockchain/main';
 import Crypto from './pages/services/web/blockchain/crypto/main';
+import Web3 from './pages/services/web/blockchain/web3/main';
 
 const App = (props) => {
   return (
@@ -27,9 +28,10 @@ const App = (props) => {
           <Route path="/about" element={<About />} />
           <Route path="/Privacy" element={<Privacy />} />
           <Route path="/test" element={<Test />} />
-          <Route path="/Webservice" element={<Webservice />} />
-          <Route path="/Blockchain" element={<Blockchain />} />
-          <Route path="/blockchain/crypto" element={<Crypto />} />
+          <Route path="/services/webservice" element={<Webservice />} />
+          <Route path="/services/webservice/blockchain" element={<Blockchain />} />
+          <Route path="/services/webservice/blockchain/crypto" element={<Crypto />} />
+          <Route path="/services/Webservice/blockchain/web3" element={<Web3 />} />
           <Route path="/*" element={<P404 />} />
         </Routes>
         <Footer />

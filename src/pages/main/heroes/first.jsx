@@ -27,12 +27,13 @@ function First() {
           <p  data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" className="mt-6 text-gray-500 dark:text-gray-300">
             We provide top-quality computer solutions to help your business grow
             and succeed.
+            
           </p>
-          <button className="btn px-5 py-2 mt-6 text-sm font-medium leading-5 text-center text-white capitalize bg-blue-600 rounded-lg hover:bg-blue-500 lg:mx-0 lg:w-auto focus:outline-none">
-            <Link to="/contact">  Get started  >
-           
+          
+            <Link className="btn px-5 py-2 mt-6 text-sm font-medium leading-5 text-center text-white capitalize bg-blue-600 rounded-lg hover:bg-blue-500 lg:mx-0 lg:w-auto focus:outline-none" to="/contact">  Get started 
             </Link>
-          </button>
+           
+         
         </div>
         <div className="flex justify-center mt-10">
           <img
