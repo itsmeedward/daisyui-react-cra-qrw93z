@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom"
+import ContactWeb from "./contact"
 
 export default function Webservice(){
   const companyName="Greathill"
@@ -75,6 +76,10 @@ export default function Webservice(){
   {/* End Grid */}
 </div>
 {/* End Card Blog */}
+
+
+<ContactWeb />
+      
 </>
 
   

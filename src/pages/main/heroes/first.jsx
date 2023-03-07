@@ -24,7 +24,7 @@ function First() {
         <h1 className="block text-3xl font-m text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white ">
           {currentMessage} with <span className="text-blue-600 font-semibold">Greathill</span>
         </h1>
-          <p className="mt-6 text-gray-500 dark:text-gray-300">
+          <p  data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" className="mt-6 text-gray-500 dark:text-gray-300">
             We provide top-quality computer solutions to help your business grow
             and succeed.
           </p>

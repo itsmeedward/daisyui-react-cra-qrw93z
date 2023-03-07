@@ -12,6 +12,7 @@ import P404 from './pages/404';
 import Test from './pages/main/test';
 import Webservice from './pages/services/web/main';
 import Blockchain from './pages/services/web/blockchain/main';
+import Crypto from './pages/services/web/blockchain/crypto/main';
 
 const App = (props) => {
   return (
@@ -28,6 +29,7 @@ const App = (props) => {
           <Route path="/test" element={<Test />} />
           <Route path="/Webservice" element={<Webservice />} />
           <Route path="/Blockchain" element={<Blockchain />} />
+          <Route path="/blockchain/crypto" element={<Crypto />} />
           <Route path="/*" element={<P404 />} />
         </Routes>
         <Footer />

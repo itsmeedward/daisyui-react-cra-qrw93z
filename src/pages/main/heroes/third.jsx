@@ -22,7 +22,7 @@ export default function Third(){
         <h1 className="mt-4 text-xl font-semibold  ">
           Default Taiwindcss Config
         </h1>
-        <p className="mt-2  ">
+        <p data-aos="zoom-in" data-aos-offset="200" className="mt-2  ">
         Code quality is the cornerstone of every successful software project.Our team of experts follows industry-leading best practices and takes a rigorous approach to quality assurance, ensuring that our code meets the highest standards of reliability, security, and performance. 
         </p>
       </div>
@@ -44,7 +44,7 @@ export default function Third(){
         <h1 className="mt-4 text-xl font-semibold  ">
           Fully Responsive Components
         </h1>
-        <p className="mt-2  ">
+        <p data-aos="zoom-in" data-aos-offset="200" className="mt-2  ">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim
           fusce tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.
         </p>
@@ -82,7 +82,7 @@ export default function Third(){
         <h1 className="mt-4 text-xl font-semibold  ">
           RTL Languages Support
         </h1>
-        <p className="mt-2  ">
+        <p data-aos="zoom-in" data-aos-offset="200" className="mt-2  ">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim
           fusce tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.
         </p>
