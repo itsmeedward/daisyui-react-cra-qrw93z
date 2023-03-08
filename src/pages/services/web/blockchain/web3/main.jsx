@@ -151,7 +151,7 @@ export default function Web3(){
             <div className="w-full md:w-1/2 p-8">
               <img
                 className="transform hover:translate-x-16 transition ease-in-out duration-1000"
-                src="flaro-assets/images/features/testimonail.png"
+                src="https://img.freepik.com/free-vector/technology-earth-network-vector-5g-information-connection_53876-156046.jpg?w=826&t=st=1678259911~exp=1678260511~hmac=6d2468edf8285b9e3f59ebc888572e7abaa943650572356eefc503e3d698e72a"
                 alt=""
                 data-config-id="auto-img-1-8"
               />
@@ -198,7 +198,7 @@ export default function Web3(){
                           className="text-lg "
                           data-config-id="auto-txt-1-8"
                         >
-                          True interoperability
+                          Decentralization
                         </h3>
                       </div>
                       <div className="w-full p-2">
@@ -207,7 +207,7 @@ export default function Web3(){
                             className="text-gray-600 font-medium leading-relaxed"
                             data-config-id="auto-txt-2-8"
                           >
-                            Enables cross-blockchain transfers of any type of data or asset, not just tokens. Connecting to Polkadot gives you the ability to interoperate with a wide variety of blockchains in the Polkadot network.
+                           Web3 is built on decentralized technologies, such as blockchain, which enable users to have more control over their data and assets. This means that users can transact and interact with each other without the need for intermediaries, such as banks or social media companies.
                           </p>
                         </div>
                       </div>
@@ -238,7 +238,7 @@ export default function Web3(){
                           className="text-lg "
                           data-config-id="auto-txt-3-8"
                         >
-                          Up to 10GB Storage
+                          Privacy
                         </h3>
                       </div>
                       <div className="w-full p-2">
@@ -247,9 +247,7 @@ export default function Web3(){
                             className="text-gray-600 font-medium leading-relaxed"
                             data-config-id="auto-txt-4-8"
                           >
-                            Amet minim mollit non deserunt ullamco est sit aliqua
-                            dolor do amet sint. Velit officia consequat duis enim
-                            velit mollit. Exercitation veniam consequat.
+                            Web3 aims to provide greater privacy and security for users, by enabling them to control their own data and identity. This means that users can choose what information they share and who they share it with, without the risk of third-party surveillance or data breaches.
                           </p>
                         </div>
                       </div>
@@ -280,7 +278,7 @@ export default function Web3(){
                           className="text-lg "
                           data-config-id="auto-txt-5-8"
                         >
-                          Secure Payment using Stripe
+                         Tokenization
                         </h3>
                       </div>
                       <div className="w-full p-2">
@@ -288,9 +286,7 @@ export default function Web3(){
                           className="text-gray-600 font-medium leading-relaxed"
                           data-config-id="auto-txt-6-8"
                         >
-                          Amet minim mollit non deserunt ullamco est sit aliqua
-                          dolor do amet sint. Velit officia consequat duis enim
-                          velit mollit. Exercitation veniam consequat.
+                         Web3 enables the creation and exchange of digital assets, such as cryptocurrency and non-fungible tokens (NFTs), which can represent ownership of physical or digital assets. This can enable new forms of value creation and exchange, as well as enable new business models.
                         </p>
                       </div>
                     </div>
@@ -306,11 +302,11 @@ export default function Web3(){
         data-share=""
         data-category="how-it-works"
         data-component-id="eb023c5f_01_awz"
-        className="pt-24 pb-32  overflow-hidden"
+        className="pt-24 pb-32 bg-gradient-to-r from-yellow-200 to-yellow-500  overflow-hidden"
       >
         <div className="container px-4 mx-auto">
           <h2
-            className="mb-28 text-6xl md:text-7xl font-bold font-heading tracking-px-n leading-tight md:max-w-lg"
+            className="mb-28 text-6xl md:text-7xl text-blue-500 text-shadow-lg font-bold font-heading tracking-px-n leading-tight md:max-w-lg"
             data-config-id="auto-txt-1-1"
           >
 Building Web3 Solutions in 4 Simple Steps          </h2>
@@ -318,7 +314,7 @@ Building Web3 Solutions in 4 Simple Steps          </h2>
             <div className="w-full md:w-1/2 lg:w-1/4 p-8">
               <div className="flex flex-wrap items-center mb-7 -m-2">
                 <div className="w-auto p-2">
-                  <div className="relative w-14 h-14 text-2xl font-bold font-heading bg-indigo-100 rounded-full">
+                  <div className="relative w-14 h-14 text-2xl font-bold font-heading bg-white rounded-full">
                     <span
                       className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
                       data-config-id="auto-txt-2-1"
@@ -332,7 +328,7 @@ Building Web3 Solutions in 4 Simple Steps          </h2>
                 </div>
               </div>
               <h3
-                className="text-xl  leading-normal md:max-w-xs"
+                className="text-xl text-gray-700 leading-normal md:max-w-xs"
                 data-config-id="auto-txt-3-1"
               >
                 Define the Problem: The first step to finding a web3 solution is to define the problem you are trying to solve. Whether you need a decentralized application or a smart contract, you need to have a clear understanding of what you want to achieve.
@@ -341,13 +337,8 @@ Building Web3 Solutions in 4 Simple Steps          </h2>
             <div className="w-full md:w-1/2 lg:w-1/4 p-8">
               <div className="flex flex-wrap items-center mb-7 -m-2">
                 <div className="w-auto p-2">
-                  <div className="relative w-14 h-14 text-2xl text-white font-bold bg-indigo-600 rounded-full">
-                    <img
-                      className="absolute top-0 left-0"
-                      src="flaro-assets/images/how-it-works/gradient.svg"
-                      alt=""
-                      data-config-id="auto-img-1-1"
-                    />
+                  <div className="relative w-14 h-14 text-2xl  font-bold bg-white rounded-full">
+                    
                     <span
                       className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
                       data-config-id="auto-txt-4-1"
@@ -421,11 +412,11 @@ Building Web3 Solutions in 4 Simple Steps          </h2>
         data-share=""
         data-category="logos"
         data-component-id="1bd86f7b_02_awz"
-        className="pt-24 pb-32  bg-gradient-to-r from-yellow-200 to-yellow-500 overflow-hidden"
+        className="pt-24 pb-32   overflow-hidden"
       >
         <div className="container px-4 mx-auto">
           <h2
-            className="mb-5 text-6xl md:text-7xl font-bold font-heading text-center tracking-px-n leading-tight"
+            className="mb-5 text-6xl md:text-7xl font-bold text-gray-700 font-heading text-center tracking-px-n leading-tight"
             data-config-id="auto-txt-1-2"
           >
             Companies love Flaro
