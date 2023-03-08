@@ -123,7 +123,7 @@ export default function Web3(){
               </div>
               <div className="relative max-w-max mx-auto">
                 <img
-                  className="mx-auto transform hover:scale-105 transition ease-in-out duration-1000"
+                  className="mx-auto rounded-xl transform hover:scale-105 transition ease-in-out duration-1000"
                   src="https://hbr.org/resources/images/article_assets/2022/04/01-BI_WEB3_STACKPOLE_HERO-1900x827.jpg"
                   alt=""
                   data-config-id="auto-img-5-4"
@@ -150,7 +150,7 @@ export default function Web3(){
           <div className="flex flex-wrap xl:items-center -m-8">
             <div className="w-full md:w-1/2 p-8">
               <img
-                className="transform hover:translate-x-16 transition ease-in-out duration-1000"
+                className="transform rounded-xl hover:translate-x-16 transition ease-in-out duration-1000"
                 src="https://img.freepik.com/free-vector/technology-earth-network-vector-5g-information-connection_53876-156046.jpg?w=826&t=st=1678259911~exp=1678260511~hmac=6d2468edf8285b9e3f59ebc888572e7abaa943650572356eefc503e3d698e72a"
                 alt=""
                 data-config-id="auto-img-1-8"
@@ -432,7 +432,7 @@ Building Web3 Solutions in 4 Simple Steps          </h2>
             <div className="flex flex-wrap items-center -m-6 lg:-m-14">
               <div className="w-full sm:w-1/2 lg:w-1/4 p-6 lg:p-14">
                 <img
-                  className="mx-auto"
+                  className="mx-auto overflow-hidden rounded-md"
                   src="flaro-assets/logos/brands/logo-xxl-light.png"
                   alt=""
                   data-config-id="auto-img-1-2"
