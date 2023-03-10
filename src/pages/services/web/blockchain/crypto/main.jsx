@@ -34,7 +34,7 @@ export default function Crypto(){
   </div>
 </section>
 
-<section  className="py-10 bg-slate-300 " >
+<section  className="py-10 bg-slate-300  bg-cover" style={{ backgroundImage: "url('https://assets-global.website-files.com/6059b554e81c705f9dd2dd32/621fc0ec971cc2fc6c98c787_Asset%207%402x.png')" }} >
   <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
     <div className="grid items-stretch grid-cols-1 lg:grid-cols-2 gap-x-16 gap-y-12 xl:gap-x-24">
       <div className="h-full pr-12 lg:order-2 lg:mb-40">
@@ -56,7 +56,7 @@ export default function Crypto(){
           </div>
         </div>
       </div>
-      <div className="flex items-center justify-start py-10 lg:order-1 sm:py-16 lg:py-24 xl:py-48">
+      <div className="flex items-center justify-start py-10 lg:order-1 sm:py-16 lg:py-24 xl:py-48" >
         <div>
          
           <h2 className="mt-8 text-3xl font-bold leading-tight  text-blue-500 sm:text-4xl lg:text-5xl lg:leading-tight">
