@@ -151,7 +151,7 @@ export default function Web3(){
             <div className="w-full md:w-1/2 p-8">
               <img
                 className="transform rounded-xl hover:translate-x-16 transition ease-in-out duration-1000"
-                src="https://img.freepik.com/free-vector/technology-earth-network-vector-5g-information-connection_53876-156046.jpg?w=826&t=st=1678259911~exp=1678260511~hmac=6d2468edf8285b9e3f59ebc888572e7abaa943650572356eefc503e3d698e72a"
+                src="https://kusama.network/assets/img/parachains/KUSAMA-GIFS_3.gif"
                 alt=""
                 data-config-id="auto-img-1-8"
               />
