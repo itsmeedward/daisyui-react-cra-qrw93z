@@ -35,6 +35,30 @@ export default function Test() {
       <button value="ar" onClick={handleLanguageChange}>Arabic</button>
       <p>{language === "ar" ? "مرحبا بالعالم" : "Hello World"}</p>
     </div>
+
+    
+    <div className="mt-12 flex gap-6 lg:gap-12 justify-between grayscale dark:grayscale-0">
+          <img
+            src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png"
+            className="h-8 sm:h-10 w-auto lg:h-12"
+            alt=""
+          />
+          <img
+            src="./images/clients/ge.svg"
+            className="h-8 sm:h-10 w-auto lg:h-12"
+            alt=""
+          />
+          <img
+            src="./images/clients/coty.svg"
+            className="h-8 sm:h-10 w-auto lg:h-12"
+            alt=""
+          />
+          <img
+            src="./images/clients/microsoft.svg"
+            className="h-8 sm:h-10 w-auto lg:h-12"
+            alt=""
+          />
+        </div>
     </>
 )
 }

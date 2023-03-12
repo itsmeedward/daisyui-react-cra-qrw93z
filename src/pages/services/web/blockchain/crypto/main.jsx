@@ -7,7 +7,7 @@ export default function Crypto(){
   const [animationData, setAnimationData] = useState(null);
 
   useEffect(() => {
-    fetch('https://assets8.lottiefiles.com/packages/lf20_2omr5gpu.json')
+    fetch('https://assets2.lottiefiles.com/packages/lf20_pZNC76QS3J.json')
       .then(response => response.json())
       .then(data => setAnimationData(data));
   }, []);
@@ -34,7 +34,7 @@ export default function Crypto(){
   </div>
 </section>
 
-<section  className="py-10 bg-slate-300  bg-cover" style={{ backgroundImage: "url('https://assets-global.website-files.com/6059b554e81c705f9dd2dd32/621fc0ec971cc2fc6c98c787_Asset%207%402x.png')" }} >
+<section  className="py-10 bg-slate-300  bg-cover" style={{ backgroundImage: "url('https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp')" }} >
   <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
     <div className="grid items-stretch grid-cols-1 lg:grid-cols-2 gap-x-16 gap-y-12 xl:gap-x-24">
       <div className="h-full pr-12 lg:order-2 lg:mb-40">
