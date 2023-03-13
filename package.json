@@ -13,6 +13,7 @@
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "dom": "^0.0.3",
+    "konva": "^8.4.2",
     "react": "^17.0.2",
     "react-animate-css": "^0.0.1",
     "react-animated-css": "^1.2.1",
